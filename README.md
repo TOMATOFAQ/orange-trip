@@ -4,5 +4,4 @@
 
 </center>
 
-Otrip, one simulator for travel inquiry app, implemented by C/C++ and dart/Flutter.
-
+Otrip, one simulator for travel inquiry app, implemented by C/C++ and javascript/React.
