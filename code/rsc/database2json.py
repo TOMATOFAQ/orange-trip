@@ -15,20 +15,23 @@ def string2json(s):
         l[4].insert(0,0)
 
     if l[6] == '0':
-        l[6] = "Normal"
+        l[6] = "N"
+        # N stands for "normal"
     elif l[6] == '1':
         l[6] = "HSR"
+        # HSR sands for "high-speed rail"
     elif l[6] == '2':
         l[6] = "AC"
+        # AC stands for "aircraft"
     
     d = {
-        'form':l[0],
+        'from':l[0],
         'to':l[1],
-        'mark':l[2],
+        'number':l[2],
         'start':l[3],
         'end':l[4],
         'price':l[5],
-        'tpye':l[6]
+        'type':l[6]
         }
     j = json.dumps(d)
     return j
