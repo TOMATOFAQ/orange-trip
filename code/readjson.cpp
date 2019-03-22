@@ -24,6 +24,5 @@ int main(){
         cout << (*iter) << endl;
         cout << (*iter)["from"] << endl;
     }
-
     return 0;
 }
