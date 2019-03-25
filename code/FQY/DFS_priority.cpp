@@ -70,20 +70,19 @@ priority_queue<json, vector<json>, cmp_plan> DFS(string start, string end) {
     return ps;
 }
 
-int main() {
-    ReadDatabase();
+// int main() {
+//     ReadDatabase();
 
-    priority_queue<json, vector<json>, cmp_plan> ps =
-        DFS("Beijing", "Shenzhen");
-    while (!ps.empty()) {
-        json p = ps.top();
-        ps.pop();
-        cout << p["total_price"] << endl;
-        for (json s : p["path"]) cout << s << endl;
-        cout << endl;
-    }
+//     priority_queue<json, vector<json>, cmp_plan> ps =
+//         DFS("Beijing", "Shenzhen");
+//     while (!ps.empty()) {
+//         json p = ps.top();
+//         ps.pop();
+//         cout << p["total_price"] << endl;
+//         for (json s : p["path"]) cout << s << endl;
+//         cout << endl;
+//     }
 
-    // 剪枝后北京到深圳可以很容易求出来了，而北京到东京依然是组合爆炸。
-
-    return 0;
-}
+//     // 剪枝后北京到深圳可以很容易求出来了，而北京到东京依然是组合爆炸。
+//     return 0;
+// }

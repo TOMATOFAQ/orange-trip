@@ -27,3 +27,5 @@ code/FQY/DFS.cpp
 .vscode/ipch/ff9bb9858e9b0093/mmap_address.bin
 .vscode/settings.json
 code/.DS_Store
+*.bin
+*.ipch

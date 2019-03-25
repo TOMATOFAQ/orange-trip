@@ -2,7 +2,6 @@
 #include <unistd.h>
 #include <ctime>
 #include <iostream>
-#include "DFS_priority.cpp"
 using namespace std;
 
 int Shutdown = 0;
@@ -29,8 +28,6 @@ void* MoveTime(void* args) {  // 为什么形参列表要加void* args？
 // TODO: 也是要加一个命名空间
 // TODO: 如何对一次算法新建一个线程，运算完毕之后即退出线程？
 void* control(void* args) {
-    string from, to;
-    priority_queue<json, vector<json>, cmp_plan> ps;
     while (true) {
         cout << "Please input your command:" << endl;
         int command;
@@ -46,11 +43,6 @@ void* control(void* args) {
                 cin >> command;
                 SetTimeSpeed(command);
                 break;
-            case 3:
-                cin >> from >> to;
-                ps = DFS(from, to);
-                cout << ps.top() << endl;
-                break;
             default:;
         }
         if (Shutdown) pthread_exit(NULL);
@@ -58,7 +50,6 @@ void* control(void* args) {
 }
 
 int main() {
-    ReadDatabase();
     pthread_t tids[2];  // 新建进程
     int pM = pthread_create(&tids[1], NULL, control, NULL);
     int pT = pthread_create(&tids[0], NULL, MoveTime, NULL);
