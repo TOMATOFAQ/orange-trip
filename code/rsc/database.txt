@@ -1,369 +1,369 @@
-{"from": "\ufeffBeijing", "to": "Shanghai", "number": "4817", "start": [16, 30], "end": [1, 7, 30], "price": 341, "type": "N"}
-{"from": "Beijing", "to": "Shanghai", "number": "CZ6412", "start": [6, 25], "end": [0, 8, 40], "price": 720, "type": "AC"}
-{"from": "Beijing", "to": "Shanghai", "number": "CA1831", "start": [7, 30], "end": [0, 9, 40], "price": 730, "type": "AC"}
-{"from": "Beijing", "to": "Shanghai", "number": "ZH1501", "start": [8, 30], "end": [0, 10, 40], "price": 1087, "type": "AC"}
-{"from": "Beijing", "to": "Shanghai", "number": "MU5106", "start": [10, 0], "end": [0, 12, 15], "price": 1180, "type": "AC"}
-{"from": "Beijing", "to": "Shanghai", "number": "CZ9245", "start": [13, 0], "end": [0, 15, 10], "price": 1240, "type": "AC"}
-{"from": "Beijing", "to": "Shanghai", "number": "MU5116", "start": [15, 0], "end": [0, 17, 10], "price": 1180, "type": "AC"}
-{"from": "Beijing", "to": "Shanghai", "number": "HU7601", "start": [17, 20], "end": [0, 19, 35], "price": 560, "type": "AC"}
-{"from": "Beijing", "to": "Shanghai", "number": "CZ9263", "start": [19, 25], "end": [0, 21, 40], "price": 1120, "type": "AC"}
-{"from": "Beijing", "to": "Shanghai", "number": "MU5158", "start": [21, 30], "end": [0, 23, 40], "price": 720, "type": "AC"}
-{"from": "Beijing", "to": "Shanghai", "number": "HO1254", "start": [22, 10], "end": [1, 0, 35], "price": 480, "type": "AC"}
-{"from": "Beijing", "to": "Xi'an", "number": "1465", "start": [15, 30], "end": [1, 12, 15], "price": 260, "type": "N"}
-{"from": "Beijing", "to": "Xi'an", "number": "Z19", "start": [20, 41], "end": [1, 8, 15], "price": 254, "type": "HSR"}
-{"from": "Beijing", "to": "Xi'an", "number": "HU7737", "start": [21, 50], "end": [0, 23, 55], "price": 490, "type": "AC"}
-{"from": "Beijing", "to": "Xi'an", "number": "CZ6948", "start": [18, 0], "end": [0, 20, 20], "price": 510, "type": "AC"}
-{"from": "Beijing", "to": "Wuhan", "number": "3859", "start": [16, 0], "end": [1, 7, 0], "price": 321, "type": "N"}
-{"from": "Beijing", "to": "Wuhan", "number": "ZH1333", "start": [6, 0], "end": [0, 8, 20], "price": 722, "type": "AC"}
-{"from": "Beijing", "to": "Wuhan", "number": "MU2460", "start": [8, 5], "end": [0, 10, 25], "price": 650, "type": "AC"}
-{"from": "Beijing", "to": "Wuhan", "number": "MF1018", "start": [10, 40], "end": [0, 13, 10], "price": 1414, "type": "AC"}
-{"from": "Beijing", "to": "Wuhan", "number": "SC1873", "start": [13, 25], "end": [0, 15, 40], "price": 1291, "type": "AC"}
-{"from": "Beijing", "to": "Wuhan", "number": "CA8205", "start": [17, 30], "end": [0, 19, 50], "price": 1050, "type": "AC"}
-{"from": "Beijing", "to": "Wuhan", "number": "SC1341", "start": [19, 35], "end": [0, 21, 50], "price": 753, "type": "AC"}
-{"from": "Beijing", "to": "Wuhan", "number": "ZH4939", "start": [22, 10], "end": [1, 0, 30], "price": 404, "type": "AC"}
-{"from": "Beijing", "to": "Wuhan", "number": "CZ9151", "start": [22, 35], "end": [1, 0, 55], "price": 930, "type": "AC"}
-{"from": "Beijing", "to": "Shenzhen", "number": "ZH9581", "start": [7, 20], "end": [0, 12, 0], "price": 1190, "type": "AC"}
-{"from": "Beijing", "to": "Shenzhen", "number": "SC1367", "start": [9, 25], "end": [0, 12, 55], "price": 2053, "type": "AC"}
-{"from": "Beijing", "to": "Shenzhen", "number": "CA1313", "start": [11, 30], "end": [0, 14, 50], "price": 2060, "type": "AC"}
-{"from": "Beijing", "to": "Shenzhen", "number": "CA1397", "start": [14, 15], "end": [0, 17, 45], "price": 2060, "type": "AC"}
-{"from": "Beijing", "to": "Shenzhen", "number": "MF1749", "start": [17, 0], "end": [0, 20, 35], "price": 1849, "type": "AC"}
-{"from": "Beijing", "to": "Shenzhen", "number": "MU3063", "start": [20, 0], "end": [0, 23, 30], "price": 1872, "type": "AC"}
-{"from": "Beijing", "to": "Zhengzhou", "number": "1326", "start": [19, 0], "end": [1, 4, 0], "price": 182, "type": "N"}
-{"from": "Beijing", "to": "Zhengzhou", "number": "10155", "start": [17, 40], "end": [1, 3, 40], "price": 200, "type": "N"}
-{"from": "Beijing", "to": "Zhengzhou", "number": "Z35", "start": [11, 40], "end": [0, 17, 27], "price": 93, "type": "HSR"}
-{"from": "Beijing", "to": "Zhengzhou", "number": "Z97", "start": [13, 0], "end": [0, 18, 41], "price": 93, "type": "HSR"}
-{"from": "Beijing", "to": "Zhengzhou", "number": "CA1325", "start": [14, 55], "end": [0, 16, 45], "price": 900, "type": "AC"}
-{"from": "Beijing", "to": "Zhengzhou", "number": "ZH1331", "start": [21, 10], "end": [0, 23, 0], "price": 696, "type": "AC"}
-{"from": "Beijing", "to": "Haikou", "number": "JD5395", "start": [7, 5], "end": [0, 12, 20], "price": 1131, "type": "AC"}
-{"from": "Beijing", "to": "Haikou", "number": "HU7682", "start": [10, 40], "end": [0, 16, 5], "price": 2590, "type": "AC"}
-{"from": "Beijing", "to": "Haikou", "number": "KN5825", "start": [14, 40], "end": [0, 18, 5], "price": 588, "type": "AC"}
-{"from": "Beijing", "to": "Haikou", "number": "HU7882", "start": [19, 10], "end": [1, 0, 45], "price": 1382, "type": "AC"}
-{"from": "Beijing", "to": "Haikou", "number": "HU7282", "start": [21, 5], "end": [1, 1, 0], "price": 1156, "type": "AC"}
-{"from": "Beijing", "to": "Lasa", "number": "ZH4125", "start": [7, 40], "end": [0, 12, 10], "price": 2307, "type": "AC"}
-{"from": "Beijing", "to": "Lasa", "number": "TV9816", "start": [14, 35], "end": [0, 19, 5], "price": 2517, "type": "AC"}
-{"from": "Beijing", "to": "Tokyo", "number": "UA088", "start": [15, 45], "end": [0, 17, 25], "price": 5155, "type": "AC"}
-{"from": "Beijing", "to": "Tokyo", "number": "CA981", "start": [13, 0], "end": [0, 14, 20], "price": 4814, "type": "AC"}
-{"from": "Beijing", "to": "Seoul", "number": "KE854", "start": [21, 15], "end": [1, 0, 20], "price": 2348, "type": "AC"}
-{"from": "Beijing", "to": "Seoul", "number": "OZ332", "start": [10, 40], "end": [0, 13, 40], "price": 2626, "type": "AC"}
-{"from": "Beijing", "to": "Seoul", "number": "CZ315", "start": [19, 10], "end": [0, 22, 10], "price": 2478, "type": "AC"}
-{"from": "Beijing", "to": "Haerbin", "number": "3704", "start": [16, 0], "end": [1, 12, 0], "price": 301, "type": "N"}
-{"from": "Beijing", "to": "Haerbin", "number": "Z15", "start": [21, 15], "end": [1, 7, 13], "price": 241, "type": "HSR"}
-{"from": "Beijing", "to": "Haerbin", "number": "ZH1621", "start": [6, 45], "end": [0, 8, 40], "price": 311, "type": "AC"}
-{"from": "Beijing", "to": "Haerbin", "number": "MF1875", "start": [8, 45], "end": [0, 10, 50], "price": 405, "type": "AC"}
-{"from": "Beijing", "to": "Haerbin", "number": "CZ6220", "start": [11, 40], "end": [0, 13, 40], "price": 520, "type": "AC"}
-{"from": "Beijing", "to": "Haerbin", "number": "CN7149", "start": [14, 55], "end": [0, 17, 0], "price": 539, "type": "AC"}
-{"from": "Beijing", "to": "Haerbin", "number": "SC1611", "start": [16, 55], "end": [0, 19, 5], "price": 602, "type": "AC"}
-{"from": "Beijing", "to": "Haerbin", "number": "MU5197", "start": [19, 35], "end": [0, 21, 35], "price": 529, "type": "AC"}
-{"from": "Beijing", "to": "Haerbin", "number": "MU3614", "start": [22, 20], "end": [1, 0, 20], "price": 490, "type": "AC"}
-{"from": "Beijing", "to": "Moscow", "number": "SU205", "start": [11, 40], "end": [0, 14, 45], "price": 2879, "type": "AC"}
-{"from": "Beijing", "to": "Moscow", "number": "CA909", "start": [13, 45], "end": [0, 16, 55], "price": 3019, "type": "AC"}
-{"from": "Shanghai", "to": "Beijing", "number": "001094", "start": [16, 0], "end": [1, 3, 0], "price": 354, "type": "N"}
-{"from": "Shanghai", "to": "Beijing", "number": "KN5988", "start": [6, 40], "end": [0, 8, 35], "price": 492, "type": "AC"}
-{"from": "Shanghai", "to": "Beijing", "number": "HU7604", "start": [8, 35], "end": [0, 11, 0], "price": 1098, "type": "AC"}
-{"from": "Shanghai", "to": "Beijing", "number": "ZH1832", "start": [10, 55], "end": [0, 13, 10], "price": 1194, "type": "AC"}
-{"from": "Shanghai", "to": "Beijing", "number": "CA1520", "start": [12, 55], "end": [0, 15, 10], "price": 830, "type": "AC"}
-{"from": "Shanghai", "to": "Beijing", "number": "MU272", "start": [14, 25], "end": [0, 16, 50], "price": 1230, "type": "AC"}
-{"from": "Shanghai", "to": "Beijing", "number": "SC1884", "start": [16, 40], "end": [0, 19, 5], "price": 1216, "type": "AC"}
-{"from": "Shanghai", "to": "Beijing", "number": "CA1516", "start": [18, 55], "end": [0, 21, 10], "price": 1180, "type": "AC"}
-{"from": "Shanghai", "to": "Beijing", "number": "ZH1856", "start": [20, 55], "end": [0, 23, 10], "price": 830, "type": "AC"}
-{"from": "Shanghai", "to": "Xi'an", "number": "004109", "start": [11, 0], "end": [1, 4, 0], "price": 280, "type": "N"}
-{"from": "Shanghai", "to": "Xi'an", "number": "9C8845", "start": [7, 10], "end": [0, 9, 45], "price": 680, "type": "AC"}
-{"from": "Shanghai", "to": "Xi'an", "number": "MU9201", "start": [9, 20], "end": [0, 11, 55], "price": 1380, "type": "AC"}
-{"from": "Shanghai", "to": "Xi'an", "number": "MF4208", "start": [11, 25], "end": [0, 14, 10], "price": 645, "type": "AC"}
-{"from": "Shanghai", "to": "Xi'an", "number": "ZH5049", "start": [14, 50], "end": [0, 17, 25], "price": 748, "type": "AC"}
-{"from": "Shanghai", "to": "Xi'an", "number": "MU2168", "start": [19, 20], "end": [0, 21, 55], "price": 920, "type": "AC"}
-{"from": "Shanghai", "to": "Wuhan", "number": "000756", "start": [10, 50], "end": [0, 22, 50], "price": 262, "type": "N"}
-{"from": "Shanghai", "to": "Wuhan", "number": "009675", "start": [11, 56], "end": [0, 23, 56], "price": 230, "type": "N"}
-{"from": "Shanghai", "to": "Wuhan", "number": "003055", "start": [12, 30], "end": [1, 0, 30], "price": 285, "type": "N"}
-{"from": "Shanghai", "to": "Wuhan", "number": "007677", "start": [14, 17], "end": [1, 2, 17], "price": 230, "type": "N"}
-{"from": "Shanghai", "to": "Wuhan", "number": "007342", "start": [17, 0], "end": [1, 5, 0], "price": 316, "type": "N"}
-{"from": "Shanghai", "to": "Wuhan", "number": "MF1845", "start": [6, 45], "end": [0, 8, 55], "price": 569, "type": "AC"}
-{"from": "Shanghai", "to": "Wuhan", "number": "MU9345", "start": [9, 35], "end": [0, 11, 35], "price": 1380, "type": "AC"}
-{"from": "Shanghai", "to": "Wuhan", "number": "MU2469", "start": [12, 55], "end": [0, 14, 55], "price": 950, "type": "AC"}
-{"from": "Shanghai", "to": "Wuhan", "number": "MU518", "start": [15, 35], "end": [0, 17, 40], "price": 610, "type": "AC"}
-{"from": "Shanghai", "to": "Wuhan", "number": "FM9363", "start": [18, 40], "end": [0, 20, 40], "price": 1240, "type": "AC"}
-{"from": "Shanghai", "to": "Wuhan", "number": "CZ9660", "start": [21, 5], "end": [0, 23, 5], "price": 1420, "type": "AC"}
-{"from": "Shanghai", "to": "Shenzhen", "number": "002036", "start": [12, 23], "end": [1, 1, 23], "price": 400, "type": "N"}
-{"from": "Shanghai", "to": "Shenzhen", "number": "009130", "start": [13, 21], "end": [1, 2, 21], "price": 428, "type": "N"}
-{"from": "Shanghai", "to": "Shenzhen", "number": "000829", "start": [14, 30], "end": [1, 3, 30], "price": 428, "type": "N"}
-{"from": "Shanghai", "to": "Shenzhen", "number": "9C8917", "start": [6, 30], "end": [0, 8, 55], "price": 750, "type": "AC"}
-{"from": "Shanghai", "to": "Shenzhen", "number": "MU5333", "start": [9, 0], "end": [0, 11, 40], "price": 2800, "type": "AC"}
-{"from": "Shanghai", "to": "Shenzhen", "number": "HO1968", "start": [11, 35], "end": [0, 14, 15], "price": 954, "type": "AC"}
-{"from": "Shanghai", "to": "Shenzhen", "number": "CZ6752", "start": [13, 30], "end": [0, 16, 10], "price": 950, "type": "AC"}
-{"from": "Shanghai", "to": "Shenzhen", "number": "CZ9388", "start": [15, 20], "end": [0, 17, 55], "price": 1400, "type": "AC"}
-{"from": "Shanghai", "to": "Shenzhen", "number": "ZH9908", "start": [17, 35], "end": [0, 21, 25], "price": 670, "type": "AC"}
-{"from": "Shanghai", "to": "Shenzhen", "number": "HO1966", "start": [19, 40], "end": [0, 22, 30], "price": 1229, "type": "AC"}
-{"from": "Shanghai", "to": "Shenzhen", "number": "9C8955", "start": [21, 45], "end": [1, 0, 15], "price": 680, "type": "AC"}
-{"from": "Shanghai", "to": "Zhengzhou", "number": "009506", "start": [11, 30], "end": [0, 21, 30], "price": 180, "type": "N"}
-{"from": "Shanghai", "to": "Zhengzhou", "number": "007889", "start": [14, 51], "end": [1, 0, 51], "price": 230, "type": "N"}
-{"from": "Shanghai", "to": "Zhengzhou", "number": "000631-1", "start": [15, 50], "end": [1, 1, 50], "price": 230, "type": "N"}
-{"from": "Shanghai", "to": "Zhengzhou", "number": "000631-2", "start": [17, 50], "end": [1, 3, 50], "price": 230, "type": "N"}
-{"from": "Shanghai", "to": "Zhengzhou", "number": "000631-3", "start": [18, 50], "end": [1, 4, 50], "price": 230, "type": "N"}
-{"from": "Shanghai", "to": "Zhengzhou", "number": "MU5395", "start": [8, 10], "end": [0, 10, 10], "price": 970, "type": "AC"}
-{"from": "Shanghai", "to": "Zhengzhou", "number": "MU9389", "start": [10, 35], "end": [0, 12, 35], "price": 970, "type": "AC"}
-{"from": "Shanghai", "to": "Zhengzhou", "number": "FM9325", "start": [12, 45], "end": [0, 14, 40], "price": 970, "type": "AC"}
-{"from": "Shanghai", "to": "Zhengzhou", "number": "MU9375", "start": [15, 30], "end": [0, 17, 30], "price": 870, "type": "AC"}
-{"from": "Shanghai", "to": "Zhengzhou", "number": "FM9321", "start": [19, 5], "end": [0, 21, 0], "price": 960, "type": "AC"}
-{"from": "Shanghai", "to": "Zhengzhou", "number": "FM822", "start": [22, 20], "end": [1, 0, 20], "price": 490, "type": "AC"}
-{"from": "Shanghai", "to": "Haikou", "number": "HO1271", "start": [7, 15], "end": [0, 10, 20], "price": 670, "type": "AC"}
-{"from": "Shanghai", "to": "Haikou", "number": "FM9269", "start": [9, 25], "end": [0, 13, 40], "price": 880, "type": "AC"}
-{"from": "Shanghai", "to": "Haikou", "number": "CZ3516", "start": [12, 10], "end": [0, 15, 15], "price": 840, "type": "AC"}
-{"from": "Shanghai", "to": "Haikou", "number": "SC1973", "start": [15, 0], "end": [0, 18, 5], "price": 850, "type": "AC"}
-{"from": "Shanghai", "to": "Haikou", "number": "HU7320", "start": [20, 45], "end": [0, 23, 50], "price": 686, "type": "AC"}
-{"from": "Shanghai", "to": "Lasa", "number": "TV9882", "start": [14, 45], "end": [0, 21, 45], "price": 2611, "type": "AC"}
-{"from": "Shanghai", "to": "Tokyo", "number": "UA087", "start": [15, 45], "end": [0, 18, 25], "price": 6114, "type": "AC"}
-{"from": "Shanghai", "to": "Tokyo", "number": "DL1008", "start": [19, 30], "end": [0, 22, 15], "price": 8082, "type": "AC"}
-{"from": "Shanghai", "to": "Tokyo", "number": "AA128", "start": [18, 20], "end": [1, 0, 48], "price": 5525, "type": "AC"}
-{"from": "Shanghai", "to": "Tokyo", "number": "DL582", "start": [12, 5], "end": [0, 17, 33], "price": 7409, "type": "AC"}
-{"from": "Shanghai", "to": "Seoul", "number": "KE896", "start": [8, 50], "end": [0, 11, 50], "price": 2224, "type": "AC"}
-{"from": "Shanghai", "to": "Seoul", "number": "KE2816", "start": [18, 0], "end": [0, 21, 0], "price": 2224, "type": "AC"}
-{"from": "Shanghai", "to": "Seoul", "number": "OZ364", "start": [13, 0], "end": [0, 15, 55], "price": 2388, "type": "AC"}
-{"from": "Shanghai", "to": "Seoul", "number": "MU3699", "start": [17, 0], "end": [0, 20, 5], "price": 2507, "type": "AC"}
-{"from": "Shanghai", "to": "Haerbin", "number": "ZH1971", "start": [6, 55], "end": [0, 9, 55], "price": 657, "type": "AC"}
-{"from": "Shanghai", "to": "Haerbin", "number": "MU5509", "start": [9, 5], "end": [0, 13, 45], "price": 1270, "type": "AC"}
-{"from": "Shanghai", "to": "Haerbin", "number": "FM9547", "start": [13, 10], "end": [0, 17, 45], "price": 720, "type": "AC"}
-{"from": "Shanghai", "to": "Haerbin", "number": "ZH5021", "start": [15, 30], "end": [0, 18, 30], "price": 966, "type": "AC"}
-{"from": "Shanghai", "to": "Haerbin", "number": "HO1707", "start": [20, 50], "end": [0, 23, 50], "price": 1251, "type": "AC"}
-{"from": "Shanghai", "to": "Moscow", "number": "SU207", "start": [1, 40], "end": [0, 6, 20], "price": 2960, "type": "AC"}
-{"from": "Shanghai", "to": "Moscow", "number": "SU209", "start": [11, 40], "end": [0, 16, 5], "price": 2960, "type": "AC"}
-{"from": "Xi'an", "to": "Beijing", "number": "8181511", "start": [15, 30], "end": [1, 12, 30], "price": 277, "type": "N"}
-{"from": "Xi'an", "to": "Beijing", "number": "2651731", "start": [17, 30], "end": [1, 14, 30], "price": 297, "type": "N"}
-{"from": "Xi'an", "to": "Beijing", "number": "Z20", "start": [19, 30], "end": [1, 7, 0], "price": 272, "type": "HSR"}
-{"from": "Xi'an", "to": "Beijing", "number": "MU2101", "start": [8, 0], "end": [0, 9, 55], "price": 630, "type": "AC"}
-{"from": "Xi'an", "to": "Beijing", "number": "SC1204", "start": [10, 0], "end": [0, 11, 50], "price": 799, "type": "AC"}
-{"from": "Xi'an", "to": "Beijing", "number": "CA1290", "start": [12, 20], "end": [0, 14, 15], "price": 1090, "type": "AC"}
-{"from": "Xi'an", "to": "Beijing", "number": "MU2111", "start": [16, 0], "end": [0, 18, 0], "price": 1240, "type": "AC"}
-{"from": "Xi'an", "to": "Beijing", "number": "ZH1472", "start": [19, 30], "end": [0, 21, 30], "price": 534, "type": "AC"}
-{"from": "Xi'an", "to": "Beijing", "number": "CZ9022", "start": [21, 25], "end": [0, 23, 15], "price": 910, "type": "AC"}
-{"from": "Xi'an", "to": "Shanghai", "number": "434", "start": [15, 0], "end": [1, 3, 0], "price": 380, "type": "N"}
-{"from": "Xi'an", "to": "Shanghai", "number": "7861530", "start": [15, 30], "end": [1, 3, 30], "price": 401, "type": "N"}
-{"from": "Xi'an", "to": "Shanghai", "number": "7871730", "start": [17, 30], "end": [1, 5, 30], "price": 401, "type": "N"}
-{"from": "Xi'an", "to": "Shanghai", "number": "HO1236", "start": [7, 30], "end": [0, 9, 50], "price": 480, "type": "AC"}
-{"from": "Xi'an", "to": "Shanghai", "number": "HU7845", "start": [9, 30], "end": [0, 11, 40], "price": 490, "type": "AC"}
-{"from": "Xi'an", "to": "Shanghai", "number": "ZH5052", "start": [11, 30], "end": [0, 13, 40], "price": 677, "type": "AC"}
-{"from": "Xi'an", "to": "Shanghai", "number": "MU291", "start": [14, 30], "end": [0, 16, 50], "price": 920, "type": "AC"}
-{"from": "Xi'an", "to": "Shanghai", "number": "9C8948", "start": [17, 30], "end": [0, 19, 55], "price": 680, "type": "AC"}
-{"from": "Xi'an", "to": "Shanghai", "number": "9C8846", "start": [20, 30], "end": [0, 22, 50], "price": 680, "type": "AC"}
-{"from": "Xi'an", "to": "Shanghai", "number": "CA3234", "start": [22, 0], "end": [1, 0, 20], "price": 830, "type": "AC"}
-{"from": "Xi'an", "to": "Wuhan", "number": "602", "start": [16, 30], "end": [1, 7, 30], "price": 250, "type": "N"}
-{"from": "Xi'an", "to": "Wuhan", "number": "4521700", "start": [17, 0], "end": [1, 10, 0], "price": 257, "type": "N"}
-{"from": "Xi'an", "to": "Wuhan", "number": "JR1537", "start": [7, 40], "end": [0, 10, 45], "price": 370, "type": "AC"}
-{"from": "Xi'an", "to": "Wuhan", "number": "ZH4982", "start": [10, 10], "end": [0, 11, 40], "price": 683, "type": "AC"}
-{"from": "Xi'an", "to": "Wuhan", "number": "CZ3762", "start": [13, 20], "end": [0, 15, 5], "price": 340, "type": "AC"}
-{"from": "Xi'an", "to": "Wuhan", "number": "MU2462", "start": [19, 35], "end": [0, 21, 20], "price": 730, "type": "AC"}
-{"from": "Xi'an", "to": "Shenzhen", "number": "CZ3280", "start": [7, 0], "end": [0, 9, 55], "price": 650, "type": "AC"}
-{"from": "Xi'an", "to": "Shenzhen", "number": "MU2325", "start": [9, 45], "end": [0, 12, 40], "price": 1430, "type": "AC"}
-{"from": "Xi'an", "to": "Shenzhen", "number": "CA3544", "start": [12, 5], "end": [0, 14, 50], "price": 980, "type": "AC"}
-{"from": "Xi'an", "to": "Shenzhen", "number": "HU7873", "start": [16, 10], "end": [0, 19, 5], "price": 715, "type": "AC"}
-{"from": "Xi'an", "to": "Shenzhen", "number": "ZH9248", "start": [19, 10], "end": [0, 22, 5], "price": 790, "type": "AC"}
-{"from": "Xi'an", "to": "Shenzhen", "number": "CA3570", "start": [22, 30], "end": [1, 1, 20], "price": 730, "type": "AC"}
-{"from": "Xi'an", "to": "Zhengzhou", "number": "5580900", "start": [9, 0], "end": [0, 15, 0], "price": 123, "type": "N"}
-{"from": "Xi'an", "to": "Zhengzhou", "number": "5421000", "start": [10, 0], "end": [0, 16, 0], "price": 133, "type": "N"}
-{"from": "Xi'an", "to": "Zhengzhou", "number": "7421750", "start": [17, 50], "end": [0, 23, 50], "price": 138, "type": "N"}
-{"from": "Xi'an", "to": "Zhengzhou", "number": "7431830", "start": [18, 30], "end": [1, 0, 30], "price": 155, "type": "N"}
-{"from": "Xi'an", "to": "Zhengzhou", "number": "7431930", "start": [19, 30], "end": [1, 1, 30], "price": 138, "type": "N"}
-{"from": "Xi'an", "to": "Zhengzhou", "number": "Z106", "start": [20, 40], "end": [1, 2, 38], "price": 72, "type": "HSR"}
-{"from": "Xi'an", "to": "Zhengzhou", "number": "Z166", "start": [21, 1], "end": [1, 2, 50], "price": 72, "type": "HSR"}
-{"from": "Xi'an", "to": "Zhengzhou", "number": "Z42", "start": [21, 8], "end": [1, 3, 4], "price": 72, "type": "HSR"}
-{"from": "Xi'an", "to": "Zhengzhou", "number": "Z266", "start": [21, 15], "end": [1, 3, 13], "price": 72, "type": "HSR"}
-{"from": "Xi'an", "to": "Haikou", "number": "GS6576", "start": [7, 0], "end": [0, 11, 55], "price": 540, "type": "AC"}
-{"from": "Xi'an", "to": "Haikou", "number": "MU2171", "start": [12, 45], "end": [0, 17, 5], "price": 890, "type": "AC"}
-{"from": "Xi'an", "to": "Haikou", "number": "3U8879", "start": [14, 25], "end": [0, 19, 25], "price": 700, "type": "AC"}
-{"from": "Xi'an", "to": "Haikou", "number": "GS7611", "start": [18, 20], "end": [0, 23, 5], "price": 700, "type": "AC"}
-{"from": "Xi'an", "to": "Lasa", "number": "3U8753", "start": [6, 50], "end": [0, 10, 10], "price": 750, "type": "AC"}
-{"from": "Xi'an", "to": "Lasa", "number": "MU2335", "start": [11, 20], "end": [0, 14, 35], "price": 1110, "type": "AC"}
-{"from": "Xi'an", "to": "Lasa", "number": "TV9884", "start": [20, 25], "end": [0, 23, 45], "price": 1046, "type": "AC"}
-{"from": "Xi'an", "to": "Seoul", "number": "MU5021", "start": [7, 50], "end": [0, 13, 15], "price": 2019, "type": "AC"}
-{"from": "Xi'an", "to": "Seoul", "number": "KE808", "start": [12, 40], "end": [0, 16, 50], "price": 4404, "type": "AC"}
-{"from": "Xi'an", "to": "Seoul", "number": "OZ348", "start": [11, 15], "end": [0, 14, 50], "price": 5579, "type": "AC"}
-{"from": "Xi'an", "to": "Haerbin", "number": "MU2295", "start": [13, 45], "end": [0, 16, 40], "price": 890, "type": "AC"}
-{"from": "Xi'an", "to": "Haerbin", "number": "MU2163", "start": [17, 15], "end": [0, 20, 10], "price": 790, "type": "AC"}
-{"from": "Xi'an", "to": "Haerbin", "number": "MF1927", "start": [19, 25], "end": [0, 22, 20], "price": 947, "type": "AC"}
-{"from": "Wuhan", "to": "Beijing", "number": "JJ2011A", "start": [13, 5], "end": [1, 4, 5], "price": 320, "type": "N"}
-{"from": "Wuhan", "to": "Beijing", "number": "MF1017", "start": [7, 45], "end": [0, 9, 40], "price": 1358, "type": "AC"}
-{"from": "Wuhan", "to": "Beijing", "number": "CZ6400", "start": [11, 0], "end": [0, 12, 55], "price": 1400, "type": "AC"}
-{"from": "Wuhan", "to": "Beijing", "number": "ZH1476", "start": [14, 25], "end": [0, 16, 25], "price": 1412, "type": "AC"}
-{"from": "Wuhan", "to": "Beijing", "number": "ZH1874", "start": [16, 30], "end": [0, 18, 25], "price": 1412, "type": "AC"}
-{"from": "Wuhan", "to": "Beijing", "number": "SC1342", "start": [22, 40], "end": [1, 0, 40], "price": 669, "type": "AC"}
-{"from": "Wuhan", "to": "Shanghai", "number": "MU517", "start": [7, 30], "end": [0, 9, 0], "price": 730, "type": "AC"}
-{"from": "Wuhan", "to": "Shanghai", "number": "FM9346", "start": [12, 35], "end": [0, 14, 10], "price": 1380, "type": "AC"}
-{"from": "Wuhan", "to": "Shanghai", "number": "MU2513", "start": [18, 30], "end": [0, 20, 10], "price": 1380, "type": "AC"}
-{"from": "Wuhan", "to": "Shanghai", "number": "MF1844", "start": [22, 40], "end": [1, 0, 15], "price": 666, "type": "AC"}
-{"from": "Wuhan", "to": "Shanghai", "number": "FJ0121P", "start": [13, 30], "end": [1, 1, 30], "price": 290, "type": "N"}
-{"from": "Wuhan", "to": "Shanghai", "number": "JJ0250A", "start": [16, 10], "end": [1, 4, 10], "price": 290, "type": "N"}
-{"from": "Wuhan", "to": "Shanghai", "number": "HJ1907A", "start": [17, 20], "end": [1, 5, 20], "price": 290, "type": "N"}
-{"from": "Wuhan", "to": "Xi'an", "number": "JJ2111A", "start": [19, 50], "end": [1, 10, 50], "price": 240, "type": "N"}
-{"from": "Wuhan", "to": "Xi'an", "number": "CA8211", "start": [7, 35], "end": [0, 9, 0], "price": 230, "type": "AC"}
-{"from": "Wuhan", "to": "Xi'an", "number": "CZ3761", "start": [11, 0], "end": [0, 12, 30], "price": 530, "type": "AC"}
-{"from": "Wuhan", "to": "Xi'an", "number": "MU4745", "start": [17, 50], "end": [0, 19, 30], "price": 610, "type": "AC"}
-{"from": "Wuhan", "to": "Shenzhen", "number": "FJ0122P", "start": [16, 30], "end": [1, 12, 30], "price": 300, "type": "N"}
-{"from": "Wuhan", "to": "Shenzhen", "number": "HH0497A", "start": [11, 0], "end": [1, 7, 0], "price": 469, "type": "N"}
-{"from": "Wuhan", "to": "Shenzhen", "number": "ZH4951", "start": [9, 0], "end": [0, 10, 55], "price": 505, "type": "AC"}
-{"from": "Wuhan", "to": "Shenzhen", "number": "CA3353", "start": [16, 10], "end": [0, 18, 5], "price": 780, "type": "AC"}
-{"from": "Wuhan", "to": "Shenzhen", "number": "MF1704", "start": [21, 55], "end": [0, 23, 55], "price": 644, "type": "AC"}
-{"from": "Wuhan", "to": "Zhengzhou", "number": "HJ0304P", "start": [11, 0], "end": [0, 17, 0], "price": 160, "type": "N"}
-{"from": "Wuhan", "to": "Zhengzhou", "number": "6230", "start": [16, 0], "end": [0, 22, 0], "price": 162, "type": "N"}
-{"from": "Wuhan", "to": "Zhengzhou", "number": "JJ2082A", "start": [18, 0], "end": [1, 0, 0], "price": 140, "type": "N"}
-{"from": "Wuhan", "to": "Haikou", "number": "JD5618", "start": [11, 45], "end": [0, 14, 0], "price": 660, "type": "AC"}
-{"from": "Wuhan", "to": "Haikou", "number": "HU7842", "start": [16, 45], "end": [0, 19, 5], "price": 1382, "type": "AC"}
-{"from": "Wuhan", "to": "Haikou", "number": "CZ6652", "start": [20, 20], "end": [0, 22, 45], "price": 540, "type": "AC"}
-{"from": "Wuhan", "to": "Haerbin", "number": "CZ8367", "start": [12, 30], "end": [0, 15, 30], "price": 1020, "type": "AC"}
-{"from": "Wuhan", "to": "Haerbin", "number": "3U8726", "start": [17, 25], "end": [0, 20, 30], "price": 1340, "type": "AC"}
-{"from": "Shenzhen", "to": "Beijing", "number": "ZH9959", "start": [7, 45], "end": [0, 10, 40], "price": 1480, "type": "AC"}
-{"from": "Shenzhen", "to": "Beijing", "number": "ZH1308", "start": [9, 55], "end": [0, 13, 10], "price": 1628, "type": "AC"}
-{"from": "Shenzhen", "to": "Beijing", "number": "MU3066", "start": [12, 15], "end": [0, 15, 25], "price": 1760, "type": "AC"}
-{"from": "Shenzhen", "to": "Beijing", "number": "ZH1314", "start": [16, 0], "end": [0, 19, 15], "price": 2007, "type": "AC"}
-{"from": "Shenzhen", "to": "Beijing", "number": "HU7702", "start": [21, 40], "end": [1, 0, 50], "price": 1030, "type": "AC"}
-{"from": "Shenzhen", "to": "Shanghai", "number": "9c8956", "start": [7, 15], "end": [0, 9, 35], "price": 750, "type": "AC"}
-{"from": "Shenzhen", "to": "Shanghai", "number": "CZ9378", "start": [10, 30], "end": [0, 12, 50], "price": 1400, "type": "AC"}
-{"from": "Shenzhen", "to": "Shanghai", "number": "HO1976", "start": [12, 55], "end": [0, 17, 0], "price": 799, "type": "AC"}
-{"from": "Shenzhen", "to": "Shanghai", "number": "MU5350", "start": [16, 30], "end": [0, 18, 55], "price": 1390, "type": "AC"}
-{"from": "Shenzhen", "to": "Shanghai", "number": "CZ9398", "start": [21, 15], "end": [0, 23, 35], "price": 1120, "type": "AC"}
-{"from": "Shenzhen", "to": "Shanghai", "number": "PSZZYCP", "start": [9, 0], "end": [0, 22, 0], "price": 420, "type": "N"}
-{"from": "Shenzhen", "to": "Shanghai", "number": "74388", "start": [12, 30], "end": [1, 1, 30], "price": 500, "type": "N"}
-{"from": "Shenzhen", "to": "Shanghai", "number": "142396", "start": [14, 50], "end": [1, 3, 50], "price": 470, "type": "N"}
-{"from": "Shenzhen", "to": "Xi'an", "number": "HU7784", "start": [6, 50], "end": [0, 9, 25], "price": 660, "type": "AC"}
-{"from": "Shenzhen", "to": "Xi'an", "number": "3U8438", "start": [10, 50], "end": [0, 13, 25], "price": 910, "type": "AC"}
-{"from": "Shenzhen", "to": "Xi'an", "number": "ZH9249", "start": [18, 20], "end": [0, 21, 5], "price": 780, "type": "AC"}
-{"from": "Shenzhen", "to": "Xi'an", "number": "ZH9255", "start": [22, 0], "end": [1, 0, 40], "price": 780, "type": "AC"}
-{"from": "Shenzhen", "to": "Wuhan", "number": "ZH9853", "start": [7, 20], "end": [0, 9, 10], "price": 500, "type": "AC"}
-{"from": "Shenzhen", "to": "Wuhan", "number": "ZH4952", "start": [11, 45], "end": [0, 13, 35], "price": 506, "type": "AC"}
-{"from": "Shenzhen", "to": "Wuhan", "number": "CZ3356", "start": [18, 55], "end": [0, 20, 45], "price": 690, "type": "AC"}
-{"from": "Shenzhen", "to": "Wuhan", "number": "HCLGHCP", "start": [8, 0], "end": [1, 4, 0], "price": 280, "type": "N"}
-{"from": "Shenzhen", "to": "Wuhan", "number": "FYCZGSP", "start": [11, 40], "end": [1, 7, 40], "price": 263, "type": "N"}
-{"from": "Shenzhen", "to": "Wuhan", "number": "210281", "start": [16, 0], "end": [1, 12, 0], "price": 230, "type": "N"}
-{"from": "Shenzhen", "to": "Zhengzhou", "number": "YFHZZP", "start": [8, 0], "end": [1, 4, 0], "price": 280, "type": "N"}
-{"from": "Shenzhen", "to": "Zhengzhou", "number": "HCBTZMD", "start": [12, 0], "end": [1, 8, 0], "price": 323, "type": "N"}
-{"from": "Shenzhen", "to": "Zhengzhou", "number": "ZH9845", "start": [8, 10], "end": [0, 10, 50], "price": 990, "type": "AC"}
-{"from": "Shenzhen", "to": "Zhengzhou", "number": "CZ3976", "start": [11, 15], "end": [0, 13, 55], "price": 710, "type": "AC"}
-{"from": "Shenzhen", "to": "Zhengzhou", "number": "CZ6478", "start": [17, 55], "end": [0, 20, 40], "price": 710, "type": "AC"}
-{"from": "Shenzhen", "to": "Zhengzhou", "number": "PN6312", "start": [23, 15], "end": [1, 1, 50], "price": 492, "type": "AC"}
-{"from": "Shenzhen", "to": "Haikou", "number": "HU7006", "start": [6, 20], "end": [0, 7, 35], "price": 317, "type": "AC"}
-{"from": "Shenzhen", "to": "Haikou", "number": "MF4338", "start": [15, 10], "end": [0, 16, 20], "price": 690, "type": "AC"}
-{"from": "Shenzhen", "to": "Haikou", "number": "ZH9875", "start": [21, 10], "end": [0, 22, 30], "price": 250, "type": "AC"}
-{"from": "Shenzhen", "to": "Seoul", "number": "OZ372-333", "start": [13, 50], "end": [0, 18, 20], "price": 2328, "type": "AC"}
-{"from": "Shenzhen", "to": "Seoul", "number": "ZH9787-738", "start": [9, 40], "end": [0, 13, 55], "price": 2595, "type": "AC"}
-{"from": "Shenzhen", "to": "Haerbin", "number": "DA6253", "start": [6, 15], "end": [0, 10, 40], "price": 980, "type": "AC"}
-{"from": "Shenzhen", "to": "Haerbin", "number": "CA3503", "start": [11, 40], "end": [0, 16, 0], "price": 1400, "type": "AC"}
-{"from": "Zhengzhou", "to": "Beijing", "number": "76", "start": [19, 30], "end": [1, 4, 30], "price": 190, "type": "N"}
-{"from": "Zhengzhou", "to": "Beijing", "number": "1319", "start": [9, 30], "end": [0, 18, 30], "price": 200, "type": "N"}
-{"from": "Zhengzhou", "to": "Beijing", "number": "1009", "start": [18, 40], "end": [1, 3, 40], "price": 200, "type": "N"}
-{"from": "Zhengzhou", "to": "Beijing", "number": "Z36", "start": [7, 58], "end": [0, 13, 44], "price": 93, "type": "HSR"}
-{"from": "Zhengzhou", "to": "Beijing", "number": "Z98", "start": [9, 44], "end": [0, 15, 30], "price": 93, "type": "HSR"}
-{"from": "Zhengzhou", "to": "Beijing", "number": "ZH1332", "start": [9, 45], "end": [0, 11, 25], "price": 690, "type": "AC"}
-{"from": "Zhengzhou", "to": "Beijing", "number": "CA1326", "start": [17, 40], "end": [0, 19, 15], "price": 540, "type": "AC"}
-{"from": "Zhengzhou", "to": "Shanghai", "number": "8851", "start": [17, 20], "end": [1, 3, 20], "price": 204, "type": "N"}
-{"from": "Zhengzhou", "to": "Shanghai", "number": "8852", "start": [20, 30], "end": [1, 6, 30], "price": 204, "type": "N"}
-{"from": "Zhengzhou", "to": "Shanghai", "number": "FM9328", "start": [7, 40], "end": [0, 9, 20], "price": 590, "type": "AC"}
-{"from": "Zhengzhou", "to": "Shanghai", "number": "MU5394", "start": [12, 10], "end": [0, 13, 50], "price": 690, "type": "AC"}
-{"from": "Zhengzhou", "to": "Shanghai", "number": "MU9330", "start": [17, 20], "end": [0, 19, 5], "price": 770, "type": "AC"}
-{"from": "Zhengzhou", "to": "Shanghai", "number": "MU9322", "start": [21, 40], "end": [0, 23, 25], "price": 490, "type": "AC"}
-{"from": "Zhengzhou", "to": "Xi'an", "number": "911", "start": [8, 0], "end": [0, 18, 0], "price": 130, "type": "N"}
-{"from": "Zhengzhou", "to": "Xi'an", "number": "3336", "start": [20, 0], "end": [1, 6, 0], "price": 160, "type": "N"}
-{"from": "Zhengzhou", "to": "Xi'an", "number": "Z265", "start": [3, 40], "end": [0, 9, 35], "price": 72, "type": "HSR"}
-{"from": "Zhengzhou", "to": "Xi'an", "number": "Z165", "start": [5, 14], "end": [0, 11, 14], "price": 72, "type": "HSR"}
-{"from": "Zhengzhou", "to": "Wuhan", "number": "7701", "start": [17, 30], "end": [1, 8, 30], "price": 150, "type": "N"}
-{"from": "Zhengzhou", "to": "Shenzhen", "number": "ZH9950", "start": [7, 10], "end": [0, 9, 40], "price": 640, "type": "AC"}
-{"from": "Zhengzhou", "to": "Shenzhen", "number": "MF1972", "start": [10, 30], "end": [0, 12, 50], "price": 724, "type": "AC"}
-{"from": "Zhengzhou", "to": "Shenzhen", "number": "ZH9808", "start": [17, 0], "end": [0, 19, 20], "price": 710, "type": "AC"}
-{"from": "Zhengzhou", "to": "Shenzhen", "number": "DZ6260", "start": [23, 5], "end": [1, 1, 20], "price": 450, "type": "AC"}
-{"from": "Zhengzhou", "to": "Shenzhen", "number": "7719", "start": [9, 40], "end": [1, 0, 40], "price": 320, "type": "N"}
-{"from": "Zhengzhou", "to": "Shenzhen", "number": "7715", "start": [11, 0], "end": [1, 2, 0], "price": 320, "type": "N"}
-{"from": "Zhengzhou", "to": "Haikou", "number": "CZ6355", "start": [8, 40], "end": [0, 11, 35], "price": 370, "type": "AC"}
-{"from": "Zhengzhou", "to": "Haikou", "number": "ZH9437", "start": [13, 25], "end": [0, 16, 10], "price": 460, "type": "AC"}
-{"from": "Zhengzhou", "to": "Haikou", "number": "MF4166", "start": [21, 55], "end": [1, 0, 45], "price": 642, "type": "AC"}
-{"from": "Zhengzhou", "to": "Lasa", "number": "PN6293", "start": [6, 30], "end": [0, 10, 0], "price": 1160, "type": "AC"}
-{"from": "Zhengzhou", "to": "Haerbin", "number": "MF8055", "start": [14, 35], "end": [0, 17, 15], "price": 830, "type": "AC"}
-{"from": "Zhengzhou", "to": "Haerbin", "number": "ZH9436", "start": [19, 45], "end": [0, 22, 20], "price": 410, "type": "AC"}
-{"from": "Zhengzhou", "to": "Haerbin", "number": "MF1917", "start": [22, 0], "end": [1, 0, 35], "price": 693, "type": "AC"}
-{"from": "Haikou", "to": "Beijing", "number": "HU7181", "start": [8, 0], "end": [0, 11, 35], "price": 710, "type": "AC"}
-{"from": "Haikou", "to": "Beijing", "number": "ZH1362", "start": [13, 5], "end": [0, 16, 35], "price": 801, "type": "AC"}
-{"from": "Haikou", "to": "Beijing", "number": "HU7681", "start": [17, 0], "end": [0, 22, 20], "price": 590, "type": "AC"}
-{"from": "Haikou", "to": "Beijing", "number": "HU7781", "start": [20, 15], "end": [0, 23, 45], "price": 590, "type": "AC"}
-{"from": "Haikou", "to": "Shanghai", "number": "CZ3515", "start": [8, 20], "end": [0, 11, 5], "price": 750, "type": "AC"}
-{"from": "Haikou", "to": "Shanghai", "number": "MU9270", "start": [14, 30], "end": [0, 18, 45], "price": 610, "type": "AC"}
-{"from": "Haikou", "to": "Shanghai", "number": "CA1974", "start": [19, 10], "end": [0, 21, 55], "price": 530, "type": "AC"}
-{"from": "Haikou", "to": "Shanghai", "number": "MU9532", "start": [20, 20], "end": [0, 23, 5], "price": 530, "type": "AC"}
-{"from": "Haikou", "to": "Xi'an", "number": "JD5112", "start": [19, 50], "end": [0, 22, 35], "price": 427, "type": "AC"}
-{"from": "Haikou", "to": "Xi'an", "number": "9H8308", "start": [20, 10], "end": [0, 23, 5], "price": 364, "type": "AC"}
-{"from": "Haikou", "to": "Wuhan", "number": "HU7841", "start": [7, 35], "end": [0, 9, 50], "price": 624, "type": "AC"}
-{"from": "Haikou", "to": "Wuhan", "number": "HU7193", "start": [13, 10], "end": [0, 15, 35], "price": 624, "type": "AC"}
-{"from": "Haikou", "to": "Wuhan", "number": "JD5705", "start": [14, 50], "end": [0, 17, 5], "price": 590, "type": "AC"}
-{"from": "Haikou", "to": "Shenzhen", "number": "HU7013", "start": [6, 30], "end": [0, 7, 45], "price": 140, "type": "AC"}
-{"from": "Haikou", "to": "Shenzhen", "number": "CZ6795", "start": [13, 0], "end": [0, 14, 10], "price": 460, "type": "AC"}
-{"from": "Haikou", "to": "Shenzhen", "number": "MU3632", "start": [22, 30], "end": [0, 23, 40], "price": 350, "type": "AC"}
-{"from": "Haikou", "to": "Shenzhen", "number": "CA3750", "start": [23, 30], "end": [1, 0, 45], "price": 530, "type": "AC"}
-{"from": "Haikou", "to": "Zhengzhou", "number": "JD5353", "start": [6, 20], "end": [0, 9, 5], "price": 504, "type": "AC"}
-{"from": "Haikou", "to": "Zhengzhou", "number": "CZ6356", "start": [12, 20], "end": [0, 15, 15], "price": 500, "type": "AC"}
-{"from": "Haikou", "to": "Zhengzhou", "number": "ZH9438", "start": [17, 0], "end": [0, 19, 45], "price": 460, "type": "AC"}
-{"from": "Haikou", "to": "Seoul", "number": "CZ339-321", "start": [14, 0], "end": [0, 20, 45], "price": 2972, "type": "AC"}
-{"from": "Lasa", "to": "Beijing", "number": "CA4126", "start": [9, 30], "end": [0, 13, 20], "price": 2440, "type": "AC"}
-{"from": "Lasa", "to": "Shanghai", "number": "MU2336", "start": [15, 15], "end": [0, 21, 20], "price": 2944, "type": "AC"}
-{"from": "Lasa", "to": "Shanghai", "number": "TV9856", "start": [18, 15], "end": [1, 10, 35], "price": 1604, "type": "AC"}
-{"from": "Lasa", "to": "Xi'an", "number": "3U8754", "start": [10, 50], "end": [0, 13, 45], "price": 1080, "type": "AC"}
-{"from": "Lasa", "to": "Xi'an", "number": "MU2336", "start": [15, 15], "end": [0, 18, 5], "price": 1370, "type": "AC"}
-{"from": "Lasa", "to": "Xi'an", "number": "CA3983", "start": [16, 30], "end": [0, 19, 25], "price": 1370, "type": "AC"}
-{"from": "Lasa", "to": "Wuhan", "number": "TV9887", "start": [13, 40], "end": [0, 21, 25], "price": 1494, "type": "AC"}
-{"from": "Lasa", "to": "Wuhan", "number": "3U8776", "start": [15, 25], "end": [0, 21, 25], "price": 1435, "type": "AC"}
-{"from": "Lasa", "to": "Shenzhen", "number": "TV9881", "start": [7, 40], "end": [0, 14, 20], "price": 1668, "type": "AC"}
-{"from": "Lasa", "to": "Shenzhen", "number": "ZH4406", "start": [13, 15], "end": [0, 19, 55], "price": 1545, "type": "AC"}
-{"from": "Lasa", "to": "Shenzhen", "number": "TV9856", "start": [18, 15], "end": [1, 0, 50], "price": 1442, "type": "AC"}
-{"from": "Lasa", "to": "Shenzhen", "number": "CA3954", "start": [22, 45], "end": [1, 9, 25], "price": 1720, "type": "AC"}
-{"from": "Lasa", "to": "Zhengzhou", "number": "PN6294", "start": [10, 25], "end": [0, 13, 25], "price": 1270, "type": "AC"}
-{"from": "Lasa", "to": "Zhengzhou", "number": "ZH4404", "start": [17, 25], "end": [1, 0, 50], "price": 1371, "type": "AC"}
-{"from": "Lasa", "to": "Zhengzhou", "number": "CA3954", "start": [22, 45], "end": [1, 9, 25], "price": 1640, "type": "AC"}
-{"from": "Tokyo", "to": "Beijing", "number": "UA089-777", "start": [11, 55], "end": [0, 13, 45], "price": 8524, "type": "AC"}
-{"from": "Tokyo", "to": "Beijing", "number": "CA982-747", "start": [16, 50], "end": [0, 18, 20], "price": 18473, "type": "AC"}
-{"from": "Tokyo", "to": "Shanghai", "number": "MU298-773", "start": [1, 45], "end": [0, 5, 10], "price": 9049, "type": "AC"}
-{"from": "Tokyo", "to": "Shanghai", "number": "DL1007-773", "start": [16, 25], "end": [0, 19, 25], "price": 9940, "type": "AC"}
-{"from": "Tokyo", "to": "Seoul", "number": "OZ221-388", "start": [13, 25], "end": [0, 16, 35], "price": 10311, "type": "AC"}
-{"from": "Tokyo", "to": "Seoul", "number": "KE086-74H", "start": [0, 50], "end": [0, 4, 10], "price": 11089, "type": "AC"}
-{"from": "Tokyo", "to": "Moscow", "number": "DL417-76W", "start": [19, 10], "end": [1, 12, 0], "price": 4142, "type": "AC"}
-{"from": "Tokyo", "to": "Moscow", "number": "SU101-77W", "start": [14, 20], "end": [1, 6, 25], "price": 5377, "type": "AC"}
-{"from": "Seoul", "to": "Beijing", "number": "KE2851-772", "start": [9, 20], "end": [0, 23, 0], "price": 2420, "type": "AC"}
-{"from": "Seoul", "to": "Beijing", "number": "CZ316-321", "start": [8, 10], "end": [0, 9, 15], "price": 1420, "type": "AC"}
-{"from": "Seoul", "to": "Beijing", "number": "CZ318-321", "start": [12, 30], "end": [0, 13, 35], "price": 1720, "type": "AC"}
-{"from": "Seoul", "to": "Beijing", "number": "CA126-33A", "start": [17, 50], "end": [0, 19, 25], "price": 2510, "type": "AC"}
-{"from": "Seoul", "to": "Shanghai", "number": "CZ4510-77W", "start": [13, 15], "end": [0, 20, 30], "price": 1087, "type": "AC"}
-{"from": "Seoul", "to": "Shanghai", "number": "CZ4510-77W", "start": [8, 35], "end": [0, 9, 40], "price": 1688, "type": "AC"}
-{"from": "Seoul", "to": "Shanghai", "number": "FM828-73H", "start": [18, 25], "end": [0, 19, 30], "price": 2018, "type": "AC"}
-{"from": "Seoul", "to": "Shanghai", "number": "KE895-772", "start": [19, 5], "end": [0, 20, 10], "price": 2605, "type": "AC"}
-{"from": "Seoul", "to": "Xi'an", "number": "OZ347-321", "start": [10, 40], "end": [0, 12, 50], "price": 2143, "type": "AC"}
-{"from": "Seoul", "to": "Xi'an", "number": "ZH9018-32F", "start": [15, 50], "end": [0, 18, 0], "price": 1800, "type": "AC"}
-{"from": "Seoul", "to": "Shenzhen", "number": "OZ371-333", "start": [10, 0], "end": [0, 12, 40], "price": 2084, "type": "AC"}
-{"from": "Seoul", "to": "Shenzhen", "number": "ZH9036-73F", "start": [21, 10], "end": [0, 23, 50], "price": 2642, "type": "AC"}
-{"from": "Seoul", "to": "Shenzhen", "number": "OZ6899-738", "start": [14, 55], "end": [0, 17, 40], "price": 4277, "type": "AC"}
-{"from": "Seoul", "to": "Tokyo", "number": "OZ222-388", "start": [10, 30], "end": [0, 11, 30], "price": 7762, "type": "AC"}
-{"from": "Seoul", "to": "Tokyo", "number": "KE085-74H", "start": [19, 30], "end": [0, 21, 0], "price": 12302, "type": "AC"}
-{"from": "Seoul", "to": "Tokyo", "number": "UA078-738", "start": [12, 35], "end": [0, 16, 55], "price": 7275, "type": "AC"}
-{"from": "Seoul", "to": "Moscow", "number": "SU251-77W", "start": [13, 10], "end": [0, 16, 15], "price": 5348, "type": "AC"}
-{"from": "Seoul", "to": "Moscow", "number": "KE925-333", "start": [13, 35], "end": [0, 16, 50], "price": 8894, "type": "AC"}
-{"from": "Haerbin", "to": "Beijing", "number": "5215", "start": [9, 0], "end": [1, 5, 0], "price": 450, "type": "N"}
-{"from": "Haerbin", "to": "Beijing", "number": "MF1872", "start": [7, 45], "end": [0, 9, 45], "price": 517, "type": "AC"}
-{"from": "Haerbin", "to": "Beijing", "number": "SC1644", "start": [11, 40], "end": [0, 13, 55], "price": 720, "type": "AC"}
-{"from": "Haerbin", "to": "Beijing", "number": "CZ6203", "start": [16, 55], "end": [0, 18, 55], "price": 720, "type": "AC"}
-{"from": "Haerbin", "to": "Beijing", "number": "HU7128", "start": [22, 5], "end": [1, 0, 15], "price": 600, "type": "AC"}
-{"from": "Haerbin", "to": "Shanghai", "number": "CZ9498", "start": [7, 15], "end": [0, 10, 15], "price": 910, "type": "AC"}
-{"from": "Haerbin", "to": "Shanghai", "number": "SC1972", "start": [10, 45], "end": [0, 13, 50], "price": 857, "type": "AC"}
-{"from": "Haerbin", "to": "Shanghai", "number": "MU9174", "start": [17, 5], "end": [0, 21, 30], "price": 630, "type": "AC"}
-{"from": "Haerbin", "to": "Shanghai", "number": "MU3904", "start": [20, 50], "end": [0, 23, 50], "price": 994, "type": "AC"}
-{"from": "Haerbin", "to": "Xi'an", "number": "CZ6269", "start": [8, 5], "end": [0, 11, 30], "price": 670, "type": "AC"}
-{"from": "Haerbin", "to": "Xi'an", "number": "MU2288", "start": [14, 15], "end": [0, 19, 15], "price": 580, "type": "AC"}
-{"from": "Haerbin", "to": "Xi'an", "number": "MU2164", "start": [20, 55], "end": [1, 0, 25], "price": 520, "type": "AC"}
-{"from": "Haerbin", "to": "Wuhan", "number": "3U8725", "start": [8, 15], "end": [0, 11, 30], "price": 780, "type": "AC"}
-{"from": "Haerbin", "to": "Wuhan", "number": "CZ8368", "start": [16, 35], "end": [0, 20, 0], "price": 780, "type": "AC"}
-{"from": "Haerbin", "to": "Wuhan", "number": "MU4730", "start": [18, 5], "end": [0, 22, 55], "price": 886, "type": "AC"}
-{"from": "Haerbin", "to": "Shenzhen", "number": "MF1928", "start": [8, 30], "end": [0, 13, 0], "price": 1160, "type": "AC"}
-{"from": "Haerbin", "to": "Shenzhen", "number": "DZ6274", "start": [14, 15], "end": [0, 20, 35], "price": 700, "type": "AC"}
-{"from": "Haerbin", "to": "Shenzhen", "number": "DZ6254", "start": [19, 45], "end": [1, 0, 20], "price": 560, "type": "AC"}
-{"from": "Haerbin", "to": "Zhengzhou", "number": "ZH9435", "start": [9, 30], "end": [0, 12, 30], "price": 580, "type": "AC"}
-{"from": "Haerbin", "to": "Zhengzhou", "number": "MF1916", "start": [12, 0], "end": [0, 15, 5], "price": 785, "type": "AC"}
-{"from": "Haerbin", "to": "Zhengzhou", "number": "CZ5030", "start": [18, 0], "end": [0, 20, 55], "price": 830, "type": "AC"}
-{"from": "Haerbin", "to": "Haikou", "number": "ZH9433", "start": [9, 15], "end": [0, 15, 40], "price": 640, "type": "AC"}
-{"from": "Haerbin", "to": "Haikou", "number": "AQ1040", "start": [13, 45], "end": [0, 20, 40], "price": 839, "type": "AC"}
-{"from": "Moscow", "to": "Beijing", "number": "SU200-333", "start": [12, 25], "end": [1, 1, 0], "price": 2882, "type": "AC"}
-{"from": "Moscow", "to": "Beijing", "number": "CA910-772", "start": [18, 45], "end": [1, 7, 15], "price": 3580, "type": "AC"}
-{"from": "Moscow", "to": "Shanghai", "number": "SU206-333", "start": [9, 20], "end": [0, 23, 15], "price": 3082, "type": "AC"}
-{"from": "Moscow", "to": "Shanghai", "number": "SU3900-767", "start": [19, 5], "end": [1, 9, 0], "price": 3622, "type": "AC"}
-{"from": "Moscow", "to": "Tokyo", "number": "SU102-77W", "start": [14, 25], "end": [0, 17, 20], "price": 4617, "type": "AC"}
-{"from": "Moscow", "to": "Tokyo", "number": "SU100-77W", "start": [9, 40], "end": [0, 12, 25], "price": 4947, "type": "AC"}
+{"from": "\ufeffBeijing", "to": "Shanghai", "number": "4817", "start": [0, 16, 30], "end": [1, 7, 30], "duration": [0, 15, 0], "price": 341, "type": "N"}
+{"from": "Beijing", "to": "Shanghai", "number": "CZ6412", "start": [0, 6, 25], "end": [0, 8, 40], "duration": [0, 2, 15], "price": 720, "type": "AC"}
+{"from": "Beijing", "to": "Shanghai", "number": "CA1831", "start": [0, 7, 30], "end": [0, 9, 40], "duration": [0, 2, 10], "price": 730, "type": "AC"}
+{"from": "Beijing", "to": "Shanghai", "number": "ZH1501", "start": [0, 8, 30], "end": [0, 10, 40], "duration": [0, 2, 10], "price": 1087, "type": "AC"}
+{"from": "Beijing", "to": "Shanghai", "number": "MU5106", "start": [0, 10, 0], "end": [0, 12, 15], "duration": [0, 2, 15], "price": 1180, "type": "AC"}
+{"from": "Beijing", "to": "Shanghai", "number": "CZ9245", "start": [0, 13, 0], "end": [0, 15, 10], "duration": [0, 2, 10], "price": 1240, "type": "AC"}
+{"from": "Beijing", "to": "Shanghai", "number": "MU5116", "start": [0, 15, 0], "end": [0, 17, 10], "duration": [0, 2, 10], "price": 1180, "type": "AC"}
+{"from": "Beijing", "to": "Shanghai", "number": "HU7601", "start": [0, 17, 20], "end": [0, 19, 35], "duration": [0, 2, 15], "price": 560, "type": "AC"}
+{"from": "Beijing", "to": "Shanghai", "number": "CZ9263", "start": [0, 19, 25], "end": [0, 21, 40], "duration": [0, 2, 15], "price": 1120, "type": "AC"}
+{"from": "Beijing", "to": "Shanghai", "number": "MU5158", "start": [0, 21, 30], "end": [0, 23, 40], "duration": [0, 2, 10], "price": 720, "type": "AC"}
+{"from": "Beijing", "to": "Shanghai", "number": "HO1254", "start": [0, 22, 10], "end": [1, 0, 35], "duration": [0, 2, 25], "price": 480, "type": "AC"}
+{"from": "Beijing", "to": "Xi'an", "number": "1465", "start": [0, 15, 30], "end": [1, 12, 15], "duration": [0, 20, 45], "price": 260, "type": "N"}
+{"from": "Beijing", "to": "Xi'an", "number": "Z19", "start": [0, 20, 41], "end": [1, 8, 15], "duration": [0, 11, 34], "price": 254, "type": "HSR"}
+{"from": "Beijing", "to": "Xi'an", "number": "HU7737", "start": [0, 21, 50], "end": [0, 23, 55], "duration": [0, 2, 5], "price": 490, "type": "AC"}
+{"from": "Beijing", "to": "Xi'an", "number": "CZ6948", "start": [0, 18, 0], "end": [0, 20, 20], "duration": [0, 2, 20], "price": 510, "type": "AC"}
+{"from": "Beijing", "to": "Wuhan", "number": "3859", "start": [0, 16, 0], "end": [1, 7, 0], "duration": [0, 15, 0], "price": 321, "type": "N"}
+{"from": "Beijing", "to": "Wuhan", "number": "ZH1333", "start": [0, 6, 0], "end": [0, 8, 20], "duration": [0, 2, 20], "price": 722, "type": "AC"}
+{"from": "Beijing", "to": "Wuhan", "number": "MU2460", "start": [0, 8, 5], "end": [0, 10, 25], "duration": [0, 2, 20], "price": 650, "type": "AC"}
+{"from": "Beijing", "to": "Wuhan", "number": "MF1018", "start": [0, 10, 40], "end": [0, 13, 10], "duration": [0, 2, 30], "price": 1414, "type": "AC"}
+{"from": "Beijing", "to": "Wuhan", "number": "SC1873", "start": [0, 13, 25], "end": [0, 15, 40], "duration": [0, 2, 15], "price": 1291, "type": "AC"}
+{"from": "Beijing", "to": "Wuhan", "number": "CA8205", "start": [0, 17, 30], "end": [0, 19, 50], "duration": [0, 2, 20], "price": 1050, "type": "AC"}
+{"from": "Beijing", "to": "Wuhan", "number": "SC1341", "start": [0, 19, 35], "end": [0, 21, 50], "duration": [0, 2, 15], "price": 753, "type": "AC"}
+{"from": "Beijing", "to": "Wuhan", "number": "ZH4939", "start": [0, 22, 10], "end": [1, 0, 30], "duration": [0, 2, 20], "price": 404, "type": "AC"}
+{"from": "Beijing", "to": "Wuhan", "number": "CZ9151", "start": [0, 22, 35], "end": [1, 0, 55], "duration": [0, 2, 20], "price": 930, "type": "AC"}
+{"from": "Beijing", "to": "Shenzhen", "number": "ZH9581", "start": [0, 7, 20], "end": [0, 12, 0], "duration": [0, 4, 40], "price": 1190, "type": "AC"}
+{"from": "Beijing", "to": "Shenzhen", "number": "SC1367", "start": [0, 9, 25], "end": [0, 12, 55], "duration": [0, 3, 30], "price": 2053, "type": "AC"}
+{"from": "Beijing", "to": "Shenzhen", "number": "CA1313", "start": [0, 11, 30], "end": [0, 14, 50], "duration": [0, 3, 20], "price": 2060, "type": "AC"}
+{"from": "Beijing", "to": "Shenzhen", "number": "CA1397", "start": [0, 14, 15], "end": [0, 17, 45], "duration": [0, 3, 30], "price": 2060, "type": "AC"}
+{"from": "Beijing", "to": "Shenzhen", "number": "MF1749", "start": [0, 17, 0], "end": [0, 20, 35], "duration": [0, 3, 35], "price": 1849, "type": "AC"}
+{"from": "Beijing", "to": "Shenzhen", "number": "MU3063", "start": [0, 20, 0], "end": [0, 23, 30], "duration": [0, 3, 30], "price": 1872, "type": "AC"}
+{"from": "Beijing", "to": "Zhengzhou", "number": "1326", "start": [0, 19, 0], "end": [1, 4, 0], "duration": [0, 9, 0], "price": 182, "type": "N"}
+{"from": "Beijing", "to": "Zhengzhou", "number": "10155", "start": [0, 17, 40], "end": [1, 3, 40], "duration": [0, 10, 0], "price": 200, "type": "N"}
+{"from": "Beijing", "to": "Zhengzhou", "number": "Z35", "start": [0, 11, 40], "end": [0, 17, 27], "duration": [0, 5, 47], "price": 93, "type": "HSR"}
+{"from": "Beijing", "to": "Zhengzhou", "number": "Z97", "start": [0, 13, 0], "end": [0, 18, 41], "duration": [0, 5, 41], "price": 93, "type": "HSR"}
+{"from": "Beijing", "to": "Zhengzhou", "number": "CA1325", "start": [0, 14, 55], "end": [0, 16, 45], "duration": [0, 1, 50], "price": 900, "type": "AC"}
+{"from": "Beijing", "to": "Zhengzhou", "number": "ZH1331", "start": [0, 21, 10], "end": [0, 23, 0], "duration": [0, 1, 50], "price": 696, "type": "AC"}
+{"from": "Beijing", "to": "Haikou", "number": "JD5395", "start": [0, 7, 5], "end": [0, 12, 20], "duration": [0, 5, 15], "price": 1131, "type": "AC"}
+{"from": "Beijing", "to": "Haikou", "number": "HU7682", "start": [0, 10, 40], "end": [0, 16, 5], "duration": [0, 5, 25], "price": 2590, "type": "AC"}
+{"from": "Beijing", "to": "Haikou", "number": "KN5825", "start": [0, 14, 40], "end": [0, 18, 5], "duration": [0, 3, 25], "price": 588, "type": "AC"}
+{"from": "Beijing", "to": "Haikou", "number": "HU7882", "start": [0, 19, 10], "end": [1, 0, 45], "duration": [0, 5, 35], "price": 1382, "type": "AC"}
+{"from": "Beijing", "to": "Haikou", "number": "HU7282", "start": [0, 21, 5], "end": [1, 1, 0], "duration": [0, 3, 55], "price": 1156, "type": "AC"}
+{"from": "Beijing", "to": "Lasa", "number": "ZH4125", "start": [0, 7, 40], "end": [0, 12, 10], "duration": [0, 4, 30], "price": 2307, "type": "AC"}
+{"from": "Beijing", "to": "Lasa", "number": "TV9816", "start": [0, 14, 35], "end": [0, 19, 5], "duration": [0, 4, 30], "price": 2517, "type": "AC"}
+{"from": "Beijing", "to": "Tokyo", "number": "UA088", "start": [0, 15, 45], "end": [0, 17, 25], "duration": [0, 1, 40], "price": 5155, "type": "AC"}
+{"from": "Beijing", "to": "Tokyo", "number": "CA981", "start": [0, 13, 0], "end": [0, 14, 20], "duration": [0, 1, 20], "price": 4814, "type": "AC"}
+{"from": "Beijing", "to": "Seoul", "number": "KE854", "start": [0, 21, 15], "end": [1, 0, 20], "duration": [0, 3, 5], "price": 2348, "type": "AC"}
+{"from": "Beijing", "to": "Seoul", "number": "OZ332", "start": [0, 10, 40], "end": [0, 13, 40], "duration": [0, 3, 0], "price": 2626, "type": "AC"}
+{"from": "Beijing", "to": "Seoul", "number": "CZ315", "start": [0, 19, 10], "end": [0, 22, 10], "duration": [0, 3, 0], "price": 2478, "type": "AC"}
+{"from": "Beijing", "to": "Haerbin", "number": "3704", "start": [0, 16, 0], "end": [1, 12, 0], "duration": [0, 20, 0], "price": 301, "type": "N"}
+{"from": "Beijing", "to": "Haerbin", "number": "Z15", "start": [0, 21, 15], "end": [1, 7, 13], "duration": [0, 9, 58], "price": 241, "type": "HSR"}
+{"from": "Beijing", "to": "Haerbin", "number": "ZH1621", "start": [0, 6, 45], "end": [0, 8, 40], "duration": [0, 1, 55], "price": 311, "type": "AC"}
+{"from": "Beijing", "to": "Haerbin", "number": "MF1875", "start": [0, 8, 45], "end": [0, 10, 50], "duration": [0, 2, 5], "price": 405, "type": "AC"}
+{"from": "Beijing", "to": "Haerbin", "number": "CZ6220", "start": [0, 11, 40], "end": [0, 13, 40], "duration": [0, 2, 0], "price": 520, "type": "AC"}
+{"from": "Beijing", "to": "Haerbin", "number": "CN7149", "start": [0, 14, 55], "end": [0, 17, 0], "duration": [0, 2, 5], "price": 539, "type": "AC"}
+{"from": "Beijing", "to": "Haerbin", "number": "SC1611", "start": [0, 16, 55], "end": [0, 19, 5], "duration": [0, 2, 10], "price": 602, "type": "AC"}
+{"from": "Beijing", "to": "Haerbin", "number": "MU5197", "start": [0, 19, 35], "end": [0, 21, 35], "duration": [0, 2, 0], "price": 529, "type": "AC"}
+{"from": "Beijing", "to": "Haerbin", "number": "MU3614", "start": [0, 22, 20], "end": [1, 0, 20], "duration": [0, 2, 0], "price": 490, "type": "AC"}
+{"from": "Beijing", "to": "Moscow", "number": "SU205", "start": [0, 11, 40], "end": [0, 14, 45], "duration": [0, 3, 5], "price": 2879, "type": "AC"}
+{"from": "Beijing", "to": "Moscow", "number": "CA909", "start": [0, 13, 45], "end": [0, 16, 55], "duration": [0, 3, 10], "price": 3019, "type": "AC"}
+{"from": "Shanghai", "to": "Beijing", "number": "001094", "start": [0, 16, 0], "end": [1, 3, 0], "duration": [0, 11, 0], "price": 354, "type": "N"}
+{"from": "Shanghai", "to": "Beijing", "number": "KN5988", "start": [0, 6, 40], "end": [0, 8, 35], "duration": [0, 1, 55], "price": 492, "type": "AC"}
+{"from": "Shanghai", "to": "Beijing", "number": "HU7604", "start": [0, 8, 35], "end": [0, 11, 0], "duration": [0, 2, 25], "price": 1098, "type": "AC"}
+{"from": "Shanghai", "to": "Beijing", "number": "ZH1832", "start": [0, 10, 55], "end": [0, 13, 10], "duration": [0, 2, 15], "price": 1194, "type": "AC"}
+{"from": "Shanghai", "to": "Beijing", "number": "CA1520", "start": [0, 12, 55], "end": [0, 15, 10], "duration": [0, 2, 15], "price": 830, "type": "AC"}
+{"from": "Shanghai", "to": "Beijing", "number": "MU272", "start": [0, 14, 25], "end": [0, 16, 50], "duration": [0, 2, 25], "price": 1230, "type": "AC"}
+{"from": "Shanghai", "to": "Beijing", "number": "SC1884", "start": [0, 16, 40], "end": [0, 19, 5], "duration": [0, 2, 25], "price": 1216, "type": "AC"}
+{"from": "Shanghai", "to": "Beijing", "number": "CA1516", "start": [0, 18, 55], "end": [0, 21, 10], "duration": [0, 2, 15], "price": 1180, "type": "AC"}
+{"from": "Shanghai", "to": "Beijing", "number": "ZH1856", "start": [0, 20, 55], "end": [0, 23, 10], "duration": [0, 2, 15], "price": 830, "type": "AC"}
+{"from": "Shanghai", "to": "Xi'an", "number": "004109", "start": [0, 11, 0], "end": [1, 4, 0], "duration": [0, 17, 0], "price": 280, "type": "N"}
+{"from": "Shanghai", "to": "Xi'an", "number": "9C8845", "start": [0, 7, 10], "end": [0, 9, 45], "duration": [0, 2, 35], "price": 680, "type": "AC"}
+{"from": "Shanghai", "to": "Xi'an", "number": "MU9201", "start": [0, 9, 20], "end": [0, 11, 55], "duration": [0, 2, 35], "price": 1380, "type": "AC"}
+{"from": "Shanghai", "to": "Xi'an", "number": "MF4208", "start": [0, 11, 25], "end": [0, 14, 10], "duration": [0, 2, 45], "price": 645, "type": "AC"}
+{"from": "Shanghai", "to": "Xi'an", "number": "ZH5049", "start": [0, 14, 50], "end": [0, 17, 25], "duration": [0, 2, 35], "price": 748, "type": "AC"}
+{"from": "Shanghai", "to": "Xi'an", "number": "MU2168", "start": [0, 19, 20], "end": [0, 21, 55], "duration": [0, 2, 35], "price": 920, "type": "AC"}
+{"from": "Shanghai", "to": "Wuhan", "number": "000756", "start": [0, 10, 50], "end": [0, 22, 50], "duration": [0, 12, 0], "price": 262, "type": "N"}
+{"from": "Shanghai", "to": "Wuhan", "number": "009675", "start": [0, 11, 56], "end": [0, 23, 56], "duration": [0, 12, 0], "price": 230, "type": "N"}
+{"from": "Shanghai", "to": "Wuhan", "number": "003055", "start": [0, 12, 30], "end": [1, 0, 30], "duration": [0, 12, 0], "price": 285, "type": "N"}
+{"from": "Shanghai", "to": "Wuhan", "number": "007677", "start": [0, 14, 17], "end": [1, 2, 17], "duration": [0, 12, 0], "price": 230, "type": "N"}
+{"from": "Shanghai", "to": "Wuhan", "number": "007342", "start": [0, 17, 0], "end": [1, 5, 0], "duration": [0, 12, 0], "price": 316, "type": "N"}
+{"from": "Shanghai", "to": "Wuhan", "number": "MF1845", "start": [0, 6, 45], "end": [0, 8, 55], "duration": [0, 2, 10], "price": 569, "type": "AC"}
+{"from": "Shanghai", "to": "Wuhan", "number": "MU9345", "start": [0, 9, 35], "end": [0, 11, 35], "duration": [0, 2, 0], "price": 1380, "type": "AC"}
+{"from": "Shanghai", "to": "Wuhan", "number": "MU2469", "start": [0, 12, 55], "end": [0, 14, 55], "duration": [0, 2, 0], "price": 950, "type": "AC"}
+{"from": "Shanghai", "to": "Wuhan", "number": "MU518", "start": [0, 15, 35], "end": [0, 17, 40], "duration": [0, 2, 5], "price": 610, "type": "AC"}
+{"from": "Shanghai", "to": "Wuhan", "number": "FM9363", "start": [0, 18, 40], "end": [0, 20, 40], "duration": [0, 2, 0], "price": 1240, "type": "AC"}
+{"from": "Shanghai", "to": "Wuhan", "number": "CZ9660", "start": [0, 21, 5], "end": [0, 23, 5], "duration": [0, 2, 0], "price": 1420, "type": "AC"}
+{"from": "Shanghai", "to": "Shenzhen", "number": "002036", "start": [0, 12, 23], "end": [1, 1, 23], "duration": [0, 13, 0], "price": 400, "type": "N"}
+{"from": "Shanghai", "to": "Shenzhen", "number": "009130", "start": [0, 13, 21], "end": [1, 2, 21], "duration": [0, 13, 0], "price": 428, "type": "N"}
+{"from": "Shanghai", "to": "Shenzhen", "number": "000829", "start": [0, 14, 30], "end": [1, 3, 30], "duration": [0, 13, 0], "price": 428, "type": "N"}
+{"from": "Shanghai", "to": "Shenzhen", "number": "9C8917", "start": [0, 6, 30], "end": [0, 8, 55], "duration": [0, 2, 25], "price": 750, "type": "AC"}
+{"from": "Shanghai", "to": "Shenzhen", "number": "MU5333", "start": [0, 9, 0], "end": [0, 11, 40], "duration": [0, 2, 40], "price": 2800, "type": "AC"}
+{"from": "Shanghai", "to": "Shenzhen", "number": "HO1968", "start": [0, 11, 35], "end": [0, 14, 15], "duration": [0, 2, 40], "price": 954, "type": "AC"}
+{"from": "Shanghai", "to": "Shenzhen", "number": "CZ6752", "start": [0, 13, 30], "end": [0, 16, 10], "duration": [0, 2, 40], "price": 950, "type": "AC"}
+{"from": "Shanghai", "to": "Shenzhen", "number": "CZ9388", "start": [0, 15, 20], "end": [0, 17, 55], "duration": [0, 2, 35], "price": 1400, "type": "AC"}
+{"from": "Shanghai", "to": "Shenzhen", "number": "ZH9908", "start": [0, 17, 35], "end": [0, 21, 25], "duration": [0, 3, 50], "price": 670, "type": "AC"}
+{"from": "Shanghai", "to": "Shenzhen", "number": "HO1966", "start": [0, 19, 40], "end": [0, 22, 30], "duration": [0, 2, 50], "price": 1229, "type": "AC"}
+{"from": "Shanghai", "to": "Shenzhen", "number": "9C8955", "start": [0, 21, 45], "end": [1, 0, 15], "duration": [0, 2, 30], "price": 680, "type": "AC"}
+{"from": "Shanghai", "to": "Zhengzhou", "number": "009506", "start": [0, 11, 30], "end": [0, 21, 30], "duration": [0, 10, 0], "price": 180, "type": "N"}
+{"from": "Shanghai", "to": "Zhengzhou", "number": "007889", "start": [0, 14, 51], "end": [1, 0, 51], "duration": [0, 10, 0], "price": 230, "type": "N"}
+{"from": "Shanghai", "to": "Zhengzhou", "number": "000631-1", "start": [0, 15, 50], "end": [1, 1, 50], "duration": [0, 10, 0], "price": 230, "type": "N"}
+{"from": "Shanghai", "to": "Zhengzhou", "number": "000631-2", "start": [0, 17, 50], "end": [1, 3, 50], "duration": [0, 10, 0], "price": 230, "type": "N"}
+{"from": "Shanghai", "to": "Zhengzhou", "number": "000631-3", "start": [0, 18, 50], "end": [1, 4, 50], "duration": [0, 10, 0], "price": 230, "type": "N"}
+{"from": "Shanghai", "to": "Zhengzhou", "number": "MU5395", "start": [0, 8, 10], "end": [0, 10, 10], "duration": [0, 2, 0], "price": 970, "type": "AC"}
+{"from": "Shanghai", "to": "Zhengzhou", "number": "MU9389", "start": [0, 10, 35], "end": [0, 12, 35], "duration": [0, 2, 0], "price": 970, "type": "AC"}
+{"from": "Shanghai", "to": "Zhengzhou", "number": "FM9325", "start": [0, 12, 45], "end": [0, 14, 40], "duration": [0, 1, 55], "price": 970, "type": "AC"}
+{"from": "Shanghai", "to": "Zhengzhou", "number": "MU9375", "start": [0, 15, 30], "end": [0, 17, 30], "duration": [0, 2, 0], "price": 870, "type": "AC"}
+{"from": "Shanghai", "to": "Zhengzhou", "number": "FM9321", "start": [0, 19, 5], "end": [0, 21, 0], "duration": [0, 1, 55], "price": 960, "type": "AC"}
+{"from": "Shanghai", "to": "Zhengzhou", "number": "FM822", "start": [0, 22, 20], "end": [1, 0, 20], "duration": [0, 2, 0], "price": 490, "type": "AC"}
+{"from": "Shanghai", "to": "Haikou", "number": "HO1271", "start": [0, 7, 15], "end": [0, 10, 20], "duration": [0, 3, 5], "price": 670, "type": "AC"}
+{"from": "Shanghai", "to": "Haikou", "number": "FM9269", "start": [0, 9, 25], "end": [0, 13, 40], "duration": [0, 4, 15], "price": 880, "type": "AC"}
+{"from": "Shanghai", "to": "Haikou", "number": "CZ3516", "start": [0, 12, 10], "end": [0, 15, 15], "duration": [0, 3, 5], "price": 840, "type": "AC"}
+{"from": "Shanghai", "to": "Haikou", "number": "SC1973", "start": [0, 15, 0], "end": [0, 18, 5], "duration": [0, 3, 5], "price": 850, "type": "AC"}
+{"from": "Shanghai", "to": "Haikou", "number": "HU7320", "start": [0, 20, 45], "end": [0, 23, 50], "duration": [0, 3, 5], "price": 686, "type": "AC"}
+{"from": "Shanghai", "to": "Lasa", "number": "TV9882", "start": [0, 14, 45], "end": [0, 21, 45], "duration": [0, 7, 0], "price": 2611, "type": "AC"}
+{"from": "Shanghai", "to": "Tokyo", "number": "UA087", "start": [0, 15, 45], "end": [0, 18, 25], "duration": [0, 2, 40], "price": 6114, "type": "AC"}
+{"from": "Shanghai", "to": "Tokyo", "number": "DL1008", "start": [0, 19, 30], "end": [0, 22, 15], "duration": [0, 2, 45], "price": 8082, "type": "AC"}
+{"from": "Shanghai", "to": "Tokyo", "number": "AA128", "start": [0, 18, 20], "end": [1, 0, 48], "duration": [0, 6, 28], "price": 5525, "type": "AC"}
+{"from": "Shanghai", "to": "Tokyo", "number": "DL582", "start": [0, 12, 5], "end": [0, 17, 33], "duration": [0, 5, 28], "price": 7409, "type": "AC"}
+{"from": "Shanghai", "to": "Seoul", "number": "KE896", "start": [0, 8, 50], "end": [0, 11, 50], "duration": [0, 3, 0], "price": 2224, "type": "AC"}
+{"from": "Shanghai", "to": "Seoul", "number": "KE2816", "start": [0, 18, 0], "end": [0, 21, 0], "duration": [0, 3, 0], "price": 2224, "type": "AC"}
+{"from": "Shanghai", "to": "Seoul", "number": "OZ364", "start": [0, 13, 0], "end": [0, 15, 55], "duration": [0, 2, 55], "price": 2388, "type": "AC"}
+{"from": "Shanghai", "to": "Seoul", "number": "MU3699", "start": [0, 17, 0], "end": [0, 20, 5], "duration": [0, 3, 5], "price": 2507, "type": "AC"}
+{"from": "Shanghai", "to": "Haerbin", "number": "ZH1971", "start": [0, 6, 55], "end": [0, 9, 55], "duration": [0, 3, 0], "price": 657, "type": "AC"}
+{"from": "Shanghai", "to": "Haerbin", "number": "MU5509", "start": [0, 9, 5], "end": [0, 13, 45], "duration": [0, 4, 40], "price": 1270, "type": "AC"}
+{"from": "Shanghai", "to": "Haerbin", "number": "FM9547", "start": [0, 13, 10], "end": [0, 17, 45], "duration": [0, 4, 35], "price": 720, "type": "AC"}
+{"from": "Shanghai", "to": "Haerbin", "number": "ZH5021", "start": [0, 15, 30], "end": [0, 18, 30], "duration": [0, 3, 0], "price": 966, "type": "AC"}
+{"from": "Shanghai", "to": "Haerbin", "number": "HO1707", "start": [0, 20, 50], "end": [0, 23, 50], "duration": [0, 3, 0], "price": 1251, "type": "AC"}
+{"from": "Shanghai", "to": "Moscow", "number": "SU207", "start": [0, 1, 40], "end": [0, 6, 20], "duration": [0, 4, 40], "price": 2960, "type": "AC"}
+{"from": "Shanghai", "to": "Moscow", "number": "SU209", "start": [0, 11, 40], "end": [0, 16, 5], "duration": [0, 4, 25], "price": 2960, "type": "AC"}
+{"from": "Xi'an", "to": "Beijing", "number": "8181511", "start": [0, 15, 30], "end": [1, 12, 30], "duration": [0, 21, 0], "price": 277, "type": "N"}
+{"from": "Xi'an", "to": "Beijing", "number": "2651731", "start": [0, 17, 30], "end": [1, 14, 30], "duration": [0, 21, 0], "price": 297, "type": "N"}
+{"from": "Xi'an", "to": "Beijing", "number": "Z20", "start": [0, 19, 30], "end": [1, 7, 0], "duration": [0, 11, 30], "price": 272, "type": "HSR"}
+{"from": "Xi'an", "to": "Beijing", "number": "MU2101", "start": [0, 8, 0], "end": [0, 9, 55], "duration": [0, 1, 55], "price": 630, "type": "AC"}
+{"from": "Xi'an", "to": "Beijing", "number": "SC1204", "start": [0, 10, 0], "end": [0, 11, 50], "duration": [0, 1, 50], "price": 799, "type": "AC"}
+{"from": "Xi'an", "to": "Beijing", "number": "CA1290", "start": [0, 12, 20], "end": [0, 14, 15], "duration": [0, 1, 55], "price": 1090, "type": "AC"}
+{"from": "Xi'an", "to": "Beijing", "number": "MU2111", "start": [0, 16, 0], "end": [0, 18, 0], "duration": [0, 2, 0], "price": 1240, "type": "AC"}
+{"from": "Xi'an", "to": "Beijing", "number": "ZH1472", "start": [0, 19, 30], "end": [0, 21, 30], "duration": [0, 2, 0], "price": 534, "type": "AC"}
+{"from": "Xi'an", "to": "Beijing", "number": "CZ9022", "start": [0, 21, 25], "end": [0, 23, 15], "duration": [0, 1, 50], "price": 910, "type": "AC"}
+{"from": "Xi'an", "to": "Shanghai", "number": "434", "start": [0, 15, 0], "end": [1, 3, 0], "duration": [0, 12, 0], "price": 380, "type": "N"}
+{"from": "Xi'an", "to": "Shanghai", "number": "7861530", "start": [0, 15, 30], "end": [1, 3, 30], "duration": [0, 12, 0], "price": 401, "type": "N"}
+{"from": "Xi'an", "to": "Shanghai", "number": "7871730", "start": [0, 17, 30], "end": [1, 5, 30], "duration": [0, 12, 0], "price": 401, "type": "N"}
+{"from": "Xi'an", "to": "Shanghai", "number": "HO1236", "start": [0, 7, 30], "end": [0, 9, 50], "duration": [0, 2, 20], "price": 480, "type": "AC"}
+{"from": "Xi'an", "to": "Shanghai", "number": "HU7845", "start": [0, 9, 30], "end": [0, 11, 40], "duration": [0, 2, 10], "price": 490, "type": "AC"}
+{"from": "Xi'an", "to": "Shanghai", "number": "ZH5052", "start": [0, 11, 30], "end": [0, 13, 40], "duration": [0, 2, 10], "price": 677, "type": "AC"}
+{"from": "Xi'an", "to": "Shanghai", "number": "MU291", "start": [0, 14, 30], "end": [0, 16, 50], "duration": [0, 2, 20], "price": 920, "type": "AC"}
+{"from": "Xi'an", "to": "Shanghai", "number": "9C8948", "start": [0, 17, 30], "end": [0, 19, 55], "duration": [0, 2, 25], "price": 680, "type": "AC"}
+{"from": "Xi'an", "to": "Shanghai", "number": "9C8846", "start": [0, 20, 30], "end": [0, 22, 50], "duration": [0, 2, 20], "price": 680, "type": "AC"}
+{"from": "Xi'an", "to": "Shanghai", "number": "CA3234", "start": [0, 22, 0], "end": [1, 0, 20], "duration": [0, 2, 20], "price": 830, "type": "AC"}
+{"from": "Xi'an", "to": "Wuhan", "number": "602", "start": [0, 16, 30], "end": [1, 7, 30], "duration": [0, 15, 0], "price": 250, "type": "N"}
+{"from": "Xi'an", "to": "Wuhan", "number": "4521700", "start": [0, 17, 0], "end": [1, 10, 0], "duration": [0, 17, 0], "price": 257, "type": "N"}
+{"from": "Xi'an", "to": "Wuhan", "number": "JR1537", "start": [0, 7, 40], "end": [0, 10, 45], "duration": [0, 3, 5], "price": 370, "type": "AC"}
+{"from": "Xi'an", "to": "Wuhan", "number": "ZH4982", "start": [0, 10, 10], "end": [0, 11, 40], "duration": [0, 1, 30], "price": 683, "type": "AC"}
+{"from": "Xi'an", "to": "Wuhan", "number": "CZ3762", "start": [0, 13, 20], "end": [0, 15, 5], "duration": [0, 1, 45], "price": 340, "type": "AC"}
+{"from": "Xi'an", "to": "Wuhan", "number": "MU2462", "start": [0, 19, 35], "end": [0, 21, 20], "duration": [0, 1, 45], "price": 730, "type": "AC"}
+{"from": "Xi'an", "to": "Shenzhen", "number": "CZ3280", "start": [0, 7, 0], "end": [0, 9, 55], "duration": [0, 2, 55], "price": 650, "type": "AC"}
+{"from": "Xi'an", "to": "Shenzhen", "number": "MU2325", "start": [0, 9, 45], "end": [0, 12, 40], "duration": [0, 2, 55], "price": 1430, "type": "AC"}
+{"from": "Xi'an", "to": "Shenzhen", "number": "CA3544", "start": [0, 12, 5], "end": [0, 14, 50], "duration": [0, 2, 45], "price": 980, "type": "AC"}
+{"from": "Xi'an", "to": "Shenzhen", "number": "HU7873", "start": [0, 16, 10], "end": [0, 19, 5], "duration": [0, 2, 55], "price": 715, "type": "AC"}
+{"from": "Xi'an", "to": "Shenzhen", "number": "ZH9248", "start": [0, 19, 10], "end": [0, 22, 5], "duration": [0, 2, 55], "price": 790, "type": "AC"}
+{"from": "Xi'an", "to": "Shenzhen", "number": "CA3570", "start": [0, 22, 30], "end": [1, 1, 20], "duration": [0, 2, 50], "price": 730, "type": "AC"}
+{"from": "Xi'an", "to": "Zhengzhou", "number": "5580900", "start": [0, 9, 0], "end": [0, 15, 0], "duration": [0, 6, 0], "price": 123, "type": "N"}
+{"from": "Xi'an", "to": "Zhengzhou", "number": "5421000", "start": [0, 10, 0], "end": [0, 16, 0], "duration": [0, 6, 0], "price": 133, "type": "N"}
+{"from": "Xi'an", "to": "Zhengzhou", "number": "7421750", "start": [0, 17, 50], "end": [0, 23, 50], "duration": [0, 6, 0], "price": 138, "type": "N"}
+{"from": "Xi'an", "to": "Zhengzhou", "number": "7431830", "start": [0, 18, 30], "end": [1, 0, 30], "duration": [0, 6, 0], "price": 155, "type": "N"}
+{"from": "Xi'an", "to": "Zhengzhou", "number": "7431930", "start": [0, 19, 30], "end": [1, 1, 30], "duration": [0, 6, 0], "price": 138, "type": "N"}
+{"from": "Xi'an", "to": "Zhengzhou", "number": "Z106", "start": [0, 20, 40], "end": [1, 2, 38], "duration": [0, 5, 58], "price": 72, "type": "HSR"}
+{"from": "Xi'an", "to": "Zhengzhou", "number": "Z166", "start": [0, 21, 1], "end": [1, 2, 50], "duration": [0, 5, 49], "price": 72, "type": "HSR"}
+{"from": "Xi'an", "to": "Zhengzhou", "number": "Z42", "start": [0, 21, 8], "end": [1, 3, 4], "duration": [0, 5, 56], "price": 72, "type": "HSR"}
+{"from": "Xi'an", "to": "Zhengzhou", "number": "Z266", "start": [0, 21, 15], "end": [1, 3, 13], "duration": [0, 5, 58], "price": 72, "type": "HSR"}
+{"from": "Xi'an", "to": "Haikou", "number": "GS6576", "start": [0, 7, 0], "end": [0, 11, 55], "duration": [0, 4, 55], "price": 540, "type": "AC"}
+{"from": "Xi'an", "to": "Haikou", "number": "MU2171", "start": [0, 12, 45], "end": [0, 17, 5], "duration": [0, 4, 20], "price": 890, "type": "AC"}
+{"from": "Xi'an", "to": "Haikou", "number": "3U8879", "start": [0, 14, 25], "end": [0, 19, 25], "duration": [0, 5, 0], "price": 700, "type": "AC"}
+{"from": "Xi'an", "to": "Haikou", "number": "GS7611", "start": [0, 18, 20], "end": [0, 23, 5], "duration": [0, 4, 45], "price": 700, "type": "AC"}
+{"from": "Xi'an", "to": "Lasa", "number": "3U8753", "start": [0, 6, 50], "end": [0, 10, 10], "duration": [0, 3, 20], "price": 750, "type": "AC"}
+{"from": "Xi'an", "to": "Lasa", "number": "MU2335", "start": [0, 11, 20], "end": [0, 14, 35], "duration": [0, 3, 15], "price": 1110, "type": "AC"}
+{"from": "Xi'an", "to": "Lasa", "number": "TV9884", "start": [0, 20, 25], "end": [0, 23, 45], "duration": [0, 3, 20], "price": 1046, "type": "AC"}
+{"from": "Xi'an", "to": "Seoul", "number": "MU5021", "start": [0, 7, 50], "end": [0, 13, 15], "duration": [0, 5, 25], "price": 2019, "type": "AC"}
+{"from": "Xi'an", "to": "Seoul", "number": "KE808", "start": [0, 12, 40], "end": [0, 16, 50], "duration": [0, 4, 10], "price": 4404, "type": "AC"}
+{"from": "Xi'an", "to": "Seoul", "number": "OZ348", "start": [0, 11, 15], "end": [0, 14, 50], "duration": [0, 3, 35], "price": 5579, "type": "AC"}
+{"from": "Xi'an", "to": "Haerbin", "number": "MU2295", "start": [0, 13, 45], "end": [0, 16, 40], "duration": [0, 2, 55], "price": 890, "type": "AC"}
+{"from": "Xi'an", "to": "Haerbin", "number": "MU2163", "start": [0, 17, 15], "end": [0, 20, 10], "duration": [0, 2, 55], "price": 790, "type": "AC"}
+{"from": "Xi'an", "to": "Haerbin", "number": "MF1927", "start": [0, 19, 25], "end": [0, 22, 20], "duration": [0, 2, 55], "price": 947, "type": "AC"}
+{"from": "Wuhan", "to": "Beijing", "number": "JJ2011A", "start": [0, 13, 5], "end": [1, 4, 5], "duration": [0, 15, 0], "price": 320, "type": "N"}
+{"from": "Wuhan", "to": "Beijing", "number": "MF1017", "start": [0, 7, 45], "end": [0, 9, 40], "duration": [0, 1, 55], "price": 1358, "type": "AC"}
+{"from": "Wuhan", "to": "Beijing", "number": "CZ6400", "start": [0, 11, 0], "end": [0, 12, 55], "duration": [0, 1, 55], "price": 1400, "type": "AC"}
+{"from": "Wuhan", "to": "Beijing", "number": "ZH1476", "start": [0, 14, 25], "end": [0, 16, 25], "duration": [0, 2, 0], "price": 1412, "type": "AC"}
+{"from": "Wuhan", "to": "Beijing", "number": "ZH1874", "start": [0, 16, 30], "end": [0, 18, 25], "duration": [0, 1, 55], "price": 1412, "type": "AC"}
+{"from": "Wuhan", "to": "Beijing", "number": "SC1342", "start": [0, 22, 40], "end": [1, 0, 40], "duration": [0, 2, 0], "price": 669, "type": "AC"}
+{"from": "Wuhan", "to": "Shanghai", "number": "MU517", "start": [0, 7, 30], "end": [0, 9, 0], "duration": [0, 1, 30], "price": 730, "type": "AC"}
+{"from": "Wuhan", "to": "Shanghai", "number": "FM9346", "start": [0, 12, 35], "end": [0, 14, 10], "duration": [0, 1, 35], "price": 1380, "type": "AC"}
+{"from": "Wuhan", "to": "Shanghai", "number": "MU2513", "start": [0, 18, 30], "end": [0, 20, 10], "duration": [0, 1, 40], "price": 1380, "type": "AC"}
+{"from": "Wuhan", "to": "Shanghai", "number": "MF1844", "start": [0, 22, 40], "end": [1, 0, 15], "duration": [0, 1, 35], "price": 666, "type": "AC"}
+{"from": "Wuhan", "to": "Shanghai", "number": "FJ0121P", "start": [0, 13, 30], "end": [1, 1, 30], "duration": [0, 12, 0], "price": 290, "type": "N"}
+{"from": "Wuhan", "to": "Shanghai", "number": "JJ0250A", "start": [0, 16, 10], "end": [1, 4, 10], "duration": [0, 12, 0], "price": 290, "type": "N"}
+{"from": "Wuhan", "to": "Shanghai", "number": "HJ1907A", "start": [0, 17, 20], "end": [1, 5, 20], "duration": [0, 12, 0], "price": 290, "type": "N"}
+{"from": "Wuhan", "to": "Xi'an", "number": "JJ2111A", "start": [0, 19, 50], "end": [1, 10, 50], "duration": [0, 15, 0], "price": 240, "type": "N"}
+{"from": "Wuhan", "to": "Xi'an", "number": "CA8211", "start": [0, 7, 35], "end": [0, 9, 0], "duration": [0, 1, 25], "price": 230, "type": "AC"}
+{"from": "Wuhan", "to": "Xi'an", "number": "CZ3761", "start": [0, 11, 0], "end": [0, 12, 30], "duration": [0, 1, 30], "price": 530, "type": "AC"}
+{"from": "Wuhan", "to": "Xi'an", "number": "MU4745", "start": [0, 17, 50], "end": [0, 19, 30], "duration": [0, 1, 40], "price": 610, "type": "AC"}
+{"from": "Wuhan", "to": "Shenzhen", "number": "FJ0122P", "start": [0, 16, 30], "end": [1, 12, 30], "duration": [0, 20, 0], "price": 300, "type": "N"}
+{"from": "Wuhan", "to": "Shenzhen", "number": "HH0497A", "start": [0, 11, 0], "end": [1, 7, 0], "duration": [0, 20, 0], "price": 469, "type": "N"}
+{"from": "Wuhan", "to": "Shenzhen", "number": "ZH4951", "start": [0, 9, 0], "end": [0, 10, 55], "duration": [0, 1, 55], "price": 505, "type": "AC"}
+{"from": "Wuhan", "to": "Shenzhen", "number": "CA3353", "start": [0, 16, 10], "end": [0, 18, 5], "duration": [0, 1, 55], "price": 780, "type": "AC"}
+{"from": "Wuhan", "to": "Shenzhen", "number": "MF1704", "start": [0, 21, 55], "end": [0, 23, 55], "duration": [0, 2, 0], "price": 644, "type": "AC"}
+{"from": "Wuhan", "to": "Zhengzhou", "number": "HJ0304P", "start": [0, 11, 0], "end": [0, 17, 0], "duration": [0, 6, 0], "price": 160, "type": "N"}
+{"from": "Wuhan", "to": "Zhengzhou", "number": "6230", "start": [0, 16, 0], "end": [0, 22, 0], "duration": [0, 6, 0], "price": 162, "type": "N"}
+{"from": "Wuhan", "to": "Zhengzhou", "number": "JJ2082A", "start": [0, 18, 0], "end": [1, 0, 0], "duration": [0, 6, 0], "price": 140, "type": "N"}
+{"from": "Wuhan", "to": "Haikou", "number": "JD5618", "start": [0, 11, 45], "end": [0, 14, 0], "duration": [0, 2, 15], "price": 660, "type": "AC"}
+{"from": "Wuhan", "to": "Haikou", "number": "HU7842", "start": [0, 16, 45], "end": [0, 19, 5], "duration": [0, 2, 20], "price": 1382, "type": "AC"}
+{"from": "Wuhan", "to": "Haikou", "number": "CZ6652", "start": [0, 20, 20], "end": [0, 22, 45], "duration": [0, 2, 25], "price": 540, "type": "AC"}
+{"from": "Wuhan", "to": "Haerbin", "number": "CZ8367", "start": [0, 12, 30], "end": [0, 15, 30], "duration": [0, 3, 0], "price": 1020, "type": "AC"}
+{"from": "Wuhan", "to": "Haerbin", "number": "3U8726", "start": [0, 17, 25], "end": [0, 20, 30], "duration": [0, 3, 5], "price": 1340, "type": "AC"}
+{"from": "Shenzhen", "to": "Beijing", "number": "ZH9959", "start": [0, 7, 45], "end": [0, 10, 40], "duration": [0, 2, 55], "price": 1480, "type": "AC"}
+{"from": "Shenzhen", "to": "Beijing", "number": "ZH1308", "start": [0, 9, 55], "end": [0, 13, 10], "duration": [0, 3, 15], "price": 1628, "type": "AC"}
+{"from": "Shenzhen", "to": "Beijing", "number": "MU3066", "start": [0, 12, 15], "end": [0, 15, 25], "duration": [0, 3, 10], "price": 1760, "type": "AC"}
+{"from": "Shenzhen", "to": "Beijing", "number": "ZH1314", "start": [0, 16, 0], "end": [0, 19, 15], "duration": [0, 3, 15], "price": 2007, "type": "AC"}
+{"from": "Shenzhen", "to": "Beijing", "number": "HU7702", "start": [0, 21, 40], "end": [1, 0, 50], "duration": [0, 3, 10], "price": 1030, "type": "AC"}
+{"from": "Shenzhen", "to": "Shanghai", "number": "9c8956", "start": [0, 7, 15], "end": [0, 9, 35], "duration": [0, 2, 20], "price": 750, "type": "AC"}
+{"from": "Shenzhen", "to": "Shanghai", "number": "CZ9378", "start": [0, 10, 30], "end": [0, 12, 50], "duration": [0, 2, 20], "price": 1400, "type": "AC"}
+{"from": "Shenzhen", "to": "Shanghai", "number": "HO1976", "start": [0, 12, 55], "end": [0, 17, 0], "duration": [0, 4, 5], "price": 799, "type": "AC"}
+{"from": "Shenzhen", "to": "Shanghai", "number": "MU5350", "start": [0, 16, 30], "end": [0, 18, 55], "duration": [0, 2, 25], "price": 1390, "type": "AC"}
+{"from": "Shenzhen", "to": "Shanghai", "number": "CZ9398", "start": [0, 21, 15], "end": [0, 23, 35], "duration": [0, 2, 20], "price": 1120, "type": "AC"}
+{"from": "Shenzhen", "to": "Shanghai", "number": "PSZZYCP", "start": [0, 9, 0], "end": [0, 22, 0], "duration": [0, 13, 0], "price": 420, "type": "N"}
+{"from": "Shenzhen", "to": "Shanghai", "number": "74388", "start": [0, 12, 30], "end": [1, 1, 30], "duration": [0, 13, 0], "price": 500, "type": "N"}
+{"from": "Shenzhen", "to": "Shanghai", "number": "142396", "start": [0, 14, 50], "end": [1, 3, 50], "duration": [0, 13, 0], "price": 470, "type": "N"}
+{"from": "Shenzhen", "to": "Xi'an", "number": "HU7784", "start": [0, 6, 50], "end": [0, 9, 25], "duration": [0, 2, 35], "price": 660, "type": "AC"}
+{"from": "Shenzhen", "to": "Xi'an", "number": "3U8438", "start": [0, 10, 50], "end": [0, 13, 25], "duration": [0, 2, 35], "price": 910, "type": "AC"}
+{"from": "Shenzhen", "to": "Xi'an", "number": "ZH9249", "start": [0, 18, 20], "end": [0, 21, 5], "duration": [0, 2, 45], "price": 780, "type": "AC"}
+{"from": "Shenzhen", "to": "Xi'an", "number": "ZH9255", "start": [0, 22, 0], "end": [1, 0, 40], "duration": [0, 2, 40], "price": 780, "type": "AC"}
+{"from": "Shenzhen", "to": "Wuhan", "number": "ZH9853", "start": [0, 7, 20], "end": [0, 9, 10], "duration": [0, 1, 50], "price": 500, "type": "AC"}
+{"from": "Shenzhen", "to": "Wuhan", "number": "ZH4952", "start": [0, 11, 45], "end": [0, 13, 35], "duration": [0, 1, 50], "price": 506, "type": "AC"}
+{"from": "Shenzhen", "to": "Wuhan", "number": "CZ3356", "start": [0, 18, 55], "end": [0, 20, 45], "duration": [0, 1, 50], "price": 690, "type": "AC"}
+{"from": "Shenzhen", "to": "Wuhan", "number": "HCLGHCP", "start": [0, 8, 0], "end": [1, 4, 0], "duration": [0, 20, 0], "price": 280, "type": "N"}
+{"from": "Shenzhen", "to": "Wuhan", "number": "FYCZGSP", "start": [0, 11, 40], "end": [1, 7, 40], "duration": [0, 20, 0], "price": 263, "type": "N"}
+{"from": "Shenzhen", "to": "Wuhan", "number": "210281", "start": [0, 16, 0], "end": [1, 12, 0], "duration": [0, 20, 0], "price": 230, "type": "N"}
+{"from": "Shenzhen", "to": "Zhengzhou", "number": "YFHZZP", "start": [0, 8, 0], "end": [1, 4, 0], "duration": [0, 20, 0], "price": 280, "type": "N"}
+{"from": "Shenzhen", "to": "Zhengzhou", "number": "HCBTZMD", "start": [0, 12, 0], "end": [1, 8, 0], "duration": [0, 20, 0], "price": 323, "type": "N"}
+{"from": "Shenzhen", "to": "Zhengzhou", "number": "ZH9845", "start": [0, 8, 10], "end": [0, 10, 50], "duration": [0, 2, 40], "price": 990, "type": "AC"}
+{"from": "Shenzhen", "to": "Zhengzhou", "number": "CZ3976", "start": [0, 11, 15], "end": [0, 13, 55], "duration": [0, 2, 40], "price": 710, "type": "AC"}
+{"from": "Shenzhen", "to": "Zhengzhou", "number": "CZ6478", "start": [0, 17, 55], "end": [0, 20, 40], "duration": [0, 2, 45], "price": 710, "type": "AC"}
+{"from": "Shenzhen", "to": "Zhengzhou", "number": "PN6312", "start": [0, 23, 15], "end": [1, 1, 50], "duration": [0, 2, 35], "price": 492, "type": "AC"}
+{"from": "Shenzhen", "to": "Haikou", "number": "HU7006", "start": [0, 6, 20], "end": [0, 7, 35], "duration": [0, 1, 15], "price": 317, "type": "AC"}
+{"from": "Shenzhen", "to": "Haikou", "number": "MF4338", "start": [0, 15, 10], "end": [0, 16, 20], "duration": [0, 1, 10], "price": 690, "type": "AC"}
+{"from": "Shenzhen", "to": "Haikou", "number": "ZH9875", "start": [0, 21, 10], "end": [0, 22, 30], "duration": [0, 1, 20], "price": 250, "type": "AC"}
+{"from": "Shenzhen", "to": "Seoul", "number": "OZ372-333", "start": [0, 13, 50], "end": [0, 18, 20], "duration": [0, 4, 30], "price": 2328, "type": "AC"}
+{"from": "Shenzhen", "to": "Seoul", "number": "ZH9787-738", "start": [0, 9, 40], "end": [0, 13, 55], "duration": [0, 4, 15], "price": 2595, "type": "AC"}
+{"from": "Shenzhen", "to": "Haerbin", "number": "DA6253", "start": [0, 6, 15], "end": [0, 10, 40], "duration": [0, 4, 25], "price": 980, "type": "AC"}
+{"from": "Shenzhen", "to": "Haerbin", "number": "CA3503", "start": [0, 11, 40], "end": [0, 16, 0], "duration": [0, 4, 20], "price": 1400, "type": "AC"}
+{"from": "Zhengzhou", "to": "Beijing", "number": "76", "start": [0, 19, 30], "end": [1, 4, 30], "duration": [0, 9, 0], "price": 190, "type": "N"}
+{"from": "Zhengzhou", "to": "Beijing", "number": "1319", "start": [0, 9, 30], "end": [0, 18, 30], "duration": [0, 9, 0], "price": 200, "type": "N"}
+{"from": "Zhengzhou", "to": "Beijing", "number": "1009", "start": [0, 18, 40], "end": [1, 3, 40], "duration": [0, 9, 0], "price": 200, "type": "N"}
+{"from": "Zhengzhou", "to": "Beijing", "number": "Z36", "start": [0, 7, 58], "end": [0, 13, 44], "duration": [0, 5, 46], "price": 93, "type": "HSR"}
+{"from": "Zhengzhou", "to": "Beijing", "number": "Z98", "start": [0, 9, 44], "end": [0, 15, 30], "duration": [0, 5, 46], "price": 93, "type": "HSR"}
+{"from": "Zhengzhou", "to": "Beijing", "number": "ZH1332", "start": [0, 9, 45], "end": [0, 11, 25], "duration": [0, 1, 40], "price": 690, "type": "AC"}
+{"from": "Zhengzhou", "to": "Beijing", "number": "CA1326", "start": [0, 17, 40], "end": [0, 19, 15], "duration": [0, 1, 35], "price": 540, "type": "AC"}
+{"from": "Zhengzhou", "to": "Shanghai", "number": "8851", "start": [0, 17, 20], "end": [1, 3, 20], "duration": [0, 10, 0], "price": 204, "type": "N"}
+{"from": "Zhengzhou", "to": "Shanghai", "number": "8852", "start": [0, 20, 30], "end": [1, 6, 30], "duration": [0, 10, 0], "price": 204, "type": "N"}
+{"from": "Zhengzhou", "to": "Shanghai", "number": "FM9328", "start": [0, 7, 40], "end": [0, 9, 20], "duration": [0, 1, 40], "price": 590, "type": "AC"}
+{"from": "Zhengzhou", "to": "Shanghai", "number": "MU5394", "start": [0, 12, 10], "end": [0, 13, 50], "duration": [0, 1, 40], "price": 690, "type": "AC"}
+{"from": "Zhengzhou", "to": "Shanghai", "number": "MU9330", "start": [0, 17, 20], "end": [0, 19, 5], "duration": [0, 1, 45], "price": 770, "type": "AC"}
+{"from": "Zhengzhou", "to": "Shanghai", "number": "MU9322", "start": [0, 21, 40], "end": [0, 23, 25], "duration": [0, 1, 45], "price": 490, "type": "AC"}
+{"from": "Zhengzhou", "to": "Xi'an", "number": "911", "start": [0, 8, 0], "end": [0, 18, 0], "duration": [0, 10, 0], "price": 130, "type": "N"}
+{"from": "Zhengzhou", "to": "Xi'an", "number": "3336", "start": [0, 20, 0], "end": [1, 6, 0], "duration": [0, 10, 0], "price": 160, "type": "N"}
+{"from": "Zhengzhou", "to": "Xi'an", "number": "Z265", "start": [0, 3, 40], "end": [0, 9, 35], "duration": [0, 5, 55], "price": 72, "type": "HSR"}
+{"from": "Zhengzhou", "to": "Xi'an", "number": "Z165", "start": [0, 5, 14], "end": [0, 11, 14], "duration": [0, 6, 0], "price": 72, "type": "HSR"}
+{"from": "Zhengzhou", "to": "Wuhan", "number": "7701", "start": [0, 17, 30], "end": [1, 8, 30], "duration": [0, 15, 0], "price": 150, "type": "N"}
+{"from": "Zhengzhou", "to": "Shenzhen", "number": "ZH9950", "start": [0, 7, 10], "end": [0, 9, 40], "duration": [0, 2, 30], "price": 640, "type": "AC"}
+{"from": "Zhengzhou", "to": "Shenzhen", "number": "MF1972", "start": [0, 10, 30], "end": [0, 12, 50], "duration": [0, 2, 20], "price": 724, "type": "AC"}
+{"from": "Zhengzhou", "to": "Shenzhen", "number": "ZH9808", "start": [0, 17, 0], "end": [0, 19, 20], "duration": [0, 2, 20], "price": 710, "type": "AC"}
+{"from": "Zhengzhou", "to": "Shenzhen", "number": "DZ6260", "start": [0, 23, 5], "end": [1, 1, 20], "duration": [0, 2, 15], "price": 450, "type": "AC"}
+{"from": "Zhengzhou", "to": "Shenzhen", "number": "7719", "start": [0, 9, 40], "end": [1, 0, 40], "duration": [0, 15, 0], "price": 320, "type": "N"}
+{"from": "Zhengzhou", "to": "Shenzhen", "number": "7715", "start": [0, 11, 0], "end": [1, 2, 0], "duration": [0, 15, 0], "price": 320, "type": "N"}
+{"from": "Zhengzhou", "to": "Haikou", "number": "CZ6355", "start": [0, 8, 40], "end": [0, 11, 35], "duration": [0, 2, 55], "price": 370, "type": "AC"}
+{"from": "Zhengzhou", "to": "Haikou", "number": "ZH9437", "start": [0, 13, 25], "end": [0, 16, 10], "duration": [0, 2, 45], "price": 460, "type": "AC"}
+{"from": "Zhengzhou", "to": "Haikou", "number": "MF4166", "start": [0, 21, 55], "end": [1, 0, 45], "duration": [0, 2, 50], "price": 642, "type": "AC"}
+{"from": "Zhengzhou", "to": "Lasa", "number": "PN6293", "start": [0, 6, 30], "end": [0, 10, 0], "duration": [0, 3, 30], "price": 1160, "type": "AC"}
+{"from": "Zhengzhou", "to": "Haerbin", "number": "MF8055", "start": [0, 14, 35], "end": [0, 17, 15], "duration": [0, 2, 40], "price": 830, "type": "AC"}
+{"from": "Zhengzhou", "to": "Haerbin", "number": "ZH9436", "start": [0, 19, 45], "end": [0, 22, 20], "duration": [0, 2, 35], "price": 410, "type": "AC"}
+{"from": "Zhengzhou", "to": "Haerbin", "number": "MF1917", "start": [0, 22, 0], "end": [1, 0, 35], "duration": [0, 2, 35], "price": 693, "type": "AC"}
+{"from": "Haikou", "to": "Beijing", "number": "HU7181", "start": [0, 8, 0], "end": [0, 11, 35], "duration": [0, 3, 35], "price": 710, "type": "AC"}
+{"from": "Haikou", "to": "Beijing", "number": "ZH1362", "start": [0, 13, 5], "end": [0, 16, 35], "duration": [0, 3, 30], "price": 801, "type": "AC"}
+{"from": "Haikou", "to": "Beijing", "number": "HU7681", "start": [0, 17, 0], "end": [0, 22, 20], "duration": [0, 5, 20], "price": 590, "type": "AC"}
+{"from": "Haikou", "to": "Beijing", "number": "HU7781", "start": [0, 20, 15], "end": [0, 23, 45], "duration": [0, 3, 30], "price": 590, "type": "AC"}
+{"from": "Haikou", "to": "Shanghai", "number": "CZ3515", "start": [0, 8, 20], "end": [0, 11, 5], "duration": [0, 2, 45], "price": 750, "type": "AC"}
+{"from": "Haikou", "to": "Shanghai", "number": "MU9270", "start": [0, 14, 30], "end": [0, 18, 45], "duration": [0, 4, 15], "price": 610, "type": "AC"}
+{"from": "Haikou", "to": "Shanghai", "number": "CA1974", "start": [0, 19, 10], "end": [0, 21, 55], "duration": [0, 2, 45], "price": 530, "type": "AC"}
+{"from": "Haikou", "to": "Shanghai", "number": "MU9532", "start": [0, 20, 20], "end": [0, 23, 5], "duration": [0, 2, 45], "price": 530, "type": "AC"}
+{"from": "Haikou", "to": "Xi'an", "number": "JD5112", "start": [0, 19, 50], "end": [0, 22, 35], "duration": [0, 2, 45], "price": 427, "type": "AC"}
+{"from": "Haikou", "to": "Xi'an", "number": "9H8308", "start": [0, 20, 10], "end": [0, 23, 5], "duration": [0, 2, 55], "price": 364, "type": "AC"}
+{"from": "Haikou", "to": "Wuhan", "number": "HU7841", "start": [0, 7, 35], "end": [0, 9, 50], "duration": [0, 2, 15], "price": 624, "type": "AC"}
+{"from": "Haikou", "to": "Wuhan", "number": "HU7193", "start": [0, 13, 10], "end": [0, 15, 35], "duration": [0, 2, 25], "price": 624, "type": "AC"}
+{"from": "Haikou", "to": "Wuhan", "number": "JD5705", "start": [0, 14, 50], "end": [0, 17, 5], "duration": [0, 2, 15], "price": 590, "type": "AC"}
+{"from": "Haikou", "to": "Shenzhen", "number": "HU7013", "start": [0, 6, 30], "end": [0, 7, 45], "duration": [0, 1, 15], "price": 140, "type": "AC"}
+{"from": "Haikou", "to": "Shenzhen", "number": "CZ6795", "start": [0, 13, 0], "end": [0, 14, 10], "duration": [0, 1, 10], "price": 460, "type": "AC"}
+{"from": "Haikou", "to": "Shenzhen", "number": "MU3632", "start": [0, 22, 30], "end": [0, 23, 40], "duration": [0, 1, 10], "price": 350, "type": "AC"}
+{"from": "Haikou", "to": "Shenzhen", "number": "CA3750", "start": [0, 23, 30], "end": [1, 0, 45], "duration": [0, 1, 15], "price": 530, "type": "AC"}
+{"from": "Haikou", "to": "Zhengzhou", "number": "JD5353", "start": [0, 6, 20], "end": [0, 9, 5], "duration": [0, 2, 45], "price": 504, "type": "AC"}
+{"from": "Haikou", "to": "Zhengzhou", "number": "CZ6356", "start": [0, 12, 20], "end": [0, 15, 15], "duration": [0, 2, 55], "price": 500, "type": "AC"}
+{"from": "Haikou", "to": "Zhengzhou", "number": "ZH9438", "start": [0, 17, 0], "end": [0, 19, 45], "duration": [0, 2, 45], "price": 460, "type": "AC"}
+{"from": "Haikou", "to": "Seoul", "number": "CZ339-321", "start": [0, 14, 0], "end": [0, 20, 45], "duration": [0, 6, 45], "price": 2972, "type": "AC"}
+{"from": "Lasa", "to": "Beijing", "number": "CA4126", "start": [0, 9, 30], "end": [0, 13, 20], "duration": [0, 3, 50], "price": 2440, "type": "AC"}
+{"from": "Lasa", "to": "Shanghai", "number": "MU2336", "start": [0, 15, 15], "end": [0, 21, 20], "duration": [0, 6, 5], "price": 2944, "type": "AC"}
+{"from": "Lasa", "to": "Shanghai", "number": "TV9856", "start": [0, 18, 15], "end": [1, 10, 35], "duration": [0, 16, 20], "price": 1604, "type": "AC"}
+{"from": "Lasa", "to": "Xi'an", "number": "3U8754", "start": [0, 10, 50], "end": [0, 13, 45], "duration": [0, 2, 55], "price": 1080, "type": "AC"}
+{"from": "Lasa", "to": "Xi'an", "number": "MU2336", "start": [0, 15, 15], "end": [0, 18, 5], "duration": [0, 2, 50], "price": 1370, "type": "AC"}
+{"from": "Lasa", "to": "Xi'an", "number": "CA3983", "start": [0, 16, 30], "end": [0, 19, 25], "duration": [0, 2, 55], "price": 1370, "type": "AC"}
+{"from": "Lasa", "to": "Wuhan", "number": "TV9887", "start": [0, 13, 40], "end": [0, 21, 25], "duration": [0, 7, 45], "price": 1494, "type": "AC"}
+{"from": "Lasa", "to": "Wuhan", "number": "3U8776", "start": [0, 15, 25], "end": [0, 21, 25], "duration": [0, 6, 0], "price": 1435, "type": "AC"}
+{"from": "Lasa", "to": "Shenzhen", "number": "TV9881", "start": [0, 7, 40], "end": [0, 14, 20], "duration": [0, 6, 40], "price": 1668, "type": "AC"}
+{"from": "Lasa", "to": "Shenzhen", "number": "ZH4406", "start": [0, 13, 15], "end": [0, 19, 55], "duration": [0, 6, 40], "price": 1545, "type": "AC"}
+{"from": "Lasa", "to": "Shenzhen", "number": "TV9856", "start": [0, 18, 15], "end": [1, 0, 50], "duration": [0, 6, 35], "price": 1442, "type": "AC"}
+{"from": "Lasa", "to": "Shenzhen", "number": "CA3954", "start": [0, 22, 45], "end": [1, 9, 25], "duration": [0, 10, 40], "price": 1720, "type": "AC"}
+{"from": "Lasa", "to": "Zhengzhou", "number": "PN6294", "start": [0, 10, 25], "end": [0, 13, 25], "duration": [0, 3, 0], "price": 1270, "type": "AC"}
+{"from": "Lasa", "to": "Zhengzhou", "number": "ZH4404", "start": [0, 17, 25], "end": [1, 0, 50], "duration": [0, 7, 25], "price": 1371, "type": "AC"}
+{"from": "Lasa", "to": "Zhengzhou", "number": "CA3954", "start": [0, 22, 45], "end": [1, 9, 25], "duration": [0, 10, 40], "price": 1640, "type": "AC"}
+{"from": "Tokyo", "to": "Beijing", "number": "UA089-777", "start": [0, 11, 55], "end": [0, 13, 45], "duration": [0, 1, 50], "price": 8524, "type": "AC"}
+{"from": "Tokyo", "to": "Beijing", "number": "CA982-747", "start": [0, 16, 50], "end": [0, 18, 20], "duration": [0, 1, 30], "price": 18473, "type": "AC"}
+{"from": "Tokyo", "to": "Shanghai", "number": "MU298-773", "start": [0, 1, 45], "end": [0, 5, 10], "duration": [0, 3, 25], "price": 9049, "type": "AC"}
+{"from": "Tokyo", "to": "Shanghai", "number": "DL1007-773", "start": [0, 16, 25], "end": [0, 19, 25], "duration": [0, 3, 0], "price": 9940, "type": "AC"}
+{"from": "Tokyo", "to": "Seoul", "number": "OZ221-388", "start": [0, 13, 25], "end": [0, 16, 35], "duration": [0, 3, 10], "price": 10311, "type": "AC"}
+{"from": "Tokyo", "to": "Seoul", "number": "KE086-74H", "start": [0, 0, 50], "end": [0, 4, 10], "duration": [0, 3, 20], "price": 11089, "type": "AC"}
+{"from": "Tokyo", "to": "Moscow", "number": "DL417-76W", "start": [0, 19, 10], "end": [1, 12, 0], "duration": [0, 16, 50], "price": 4142, "type": "AC"}
+{"from": "Tokyo", "to": "Moscow", "number": "SU101-77W", "start": [0, 14, 20], "end": [1, 6, 25], "duration": [0, 16, 5], "price": 5377, "type": "AC"}
+{"from": "Seoul", "to": "Beijing", "number": "KE2851-772", "start": [0, 9, 20], "end": [0, 23, 0], "duration": [0, 13, 40], "price": 2420, "type": "AC"}
+{"from": "Seoul", "to": "Beijing", "number": "CZ316-321", "start": [0, 8, 10], "end": [0, 9, 15], "duration": [0, 1, 5], "price": 1420, "type": "AC"}
+{"from": "Seoul", "to": "Beijing", "number": "CZ318-321", "start": [0, 12, 30], "end": [0, 13, 35], "duration": [0, 1, 5], "price": 1720, "type": "AC"}
+{"from": "Seoul", "to": "Beijing", "number": "CA126-33A", "start": [0, 17, 50], "end": [0, 19, 25], "duration": [0, 1, 35], "price": 2510, "type": "AC"}
+{"from": "Seoul", "to": "Shanghai", "number": "CZ4510-77W", "start": [0, 13, 15], "end": [0, 20, 30], "duration": [0, 7, 15], "price": 1087, "type": "AC"}
+{"from": "Seoul", "to": "Shanghai", "number": "CZ4510-77W", "start": [0, 8, 35], "end": [0, 9, 40], "duration": [0, 1, 5], "price": 1688, "type": "AC"}
+{"from": "Seoul", "to": "Shanghai", "number": "FM828-73H", "start": [0, 18, 25], "end": [0, 19, 30], "duration": [0, 1, 5], "price": 2018, "type": "AC"}
+{"from": "Seoul", "to": "Shanghai", "number": "KE895-772", "start": [0, 19, 5], "end": [0, 20, 10], "duration": [0, 1, 5], "price": 2605, "type": "AC"}
+{"from": "Seoul", "to": "Xi'an", "number": "OZ347-321", "start": [0, 10, 40], "end": [0, 12, 50], "duration": [0, 2, 10], "price": 2143, "type": "AC"}
+{"from": "Seoul", "to": "Xi'an", "number": "ZH9018-32F", "start": [0, 15, 50], "end": [0, 18, 0], "duration": [0, 2, 10], "price": 1800, "type": "AC"}
+{"from": "Seoul", "to": "Shenzhen", "number": "OZ371-333", "start": [0, 10, 0], "end": [0, 12, 40], "duration": [0, 2, 40], "price": 2084, "type": "AC"}
+{"from": "Seoul", "to": "Shenzhen", "number": "ZH9036-73F", "start": [0, 21, 10], "end": [0, 23, 50], "duration": [0, 2, 40], "price": 2642, "type": "AC"}
+{"from": "Seoul", "to": "Shenzhen", "number": "OZ6899-738", "start": [0, 14, 55], "end": [0, 17, 40], "duration": [0, 2, 45], "price": 4277, "type": "AC"}
+{"from": "Seoul", "to": "Tokyo", "number": "OZ222-388", "start": [0, 10, 30], "end": [0, 11, 30], "duration": [0, 1, 0], "price": 7762, "type": "AC"}
+{"from": "Seoul", "to": "Tokyo", "number": "KE085-74H", "start": [0, 19, 30], "end": [0, 21, 0], "duration": [0, 1, 30], "price": 12302, "type": "AC"}
+{"from": "Seoul", "to": "Tokyo", "number": "UA078-738", "start": [0, 12, 35], "end": [0, 16, 55], "duration": [0, 4, 20], "price": 7275, "type": "AC"}
+{"from": "Seoul", "to": "Moscow", "number": "SU251-77W", "start": [0, 13, 10], "end": [0, 16, 15], "duration": [0, 3, 5], "price": 5348, "type": "AC"}
+{"from": "Seoul", "to": "Moscow", "number": "KE925-333", "start": [0, 13, 35], "end": [0, 16, 50], "duration": [0, 3, 15], "price": 8894, "type": "AC"}
+{"from": "Haerbin", "to": "Beijing", "number": "5215", "start": [0, 9, 0], "end": [1, 5, 0], "duration": [0, 20, 0], "price": 450, "type": "N"}
+{"from": "Haerbin", "to": "Beijing", "number": "MF1872", "start": [0, 7, 45], "end": [0, 9, 45], "duration": [0, 2, 0], "price": 517, "type": "AC"}
+{"from": "Haerbin", "to": "Beijing", "number": "SC1644", "start": [0, 11, 40], "end": [0, 13, 55], "duration": [0, 2, 15], "price": 720, "type": "AC"}
+{"from": "Haerbin", "to": "Beijing", "number": "CZ6203", "start": [0, 16, 55], "end": [0, 18, 55], "duration": [0, 2, 0], "price": 720, "type": "AC"}
+{"from": "Haerbin", "to": "Beijing", "number": "HU7128", "start": [0, 22, 5], "end": [1, 0, 15], "duration": [0, 2, 10], "price": 600, "type": "AC"}
+{"from": "Haerbin", "to": "Shanghai", "number": "CZ9498", "start": [0, 7, 15], "end": [0, 10, 15], "duration": [0, 3, 0], "price": 910, "type": "AC"}
+{"from": "Haerbin", "to": "Shanghai", "number": "SC1972", "start": [0, 10, 45], "end": [0, 13, 50], "duration": [0, 3, 5], "price": 857, "type": "AC"}
+{"from": "Haerbin", "to": "Shanghai", "number": "MU9174", "start": [0, 17, 5], "end": [0, 21, 30], "duration": [0, 4, 25], "price": 630, "type": "AC"}
+{"from": "Haerbin", "to": "Shanghai", "number": "MU3904", "start": [0, 20, 50], "end": [0, 23, 50], "duration": [0, 3, 0], "price": 994, "type": "AC"}
+{"from": "Haerbin", "to": "Xi'an", "number": "CZ6269", "start": [0, 8, 5], "end": [0, 11, 30], "duration": [0, 3, 25], "price": 670, "type": "AC"}
+{"from": "Haerbin", "to": "Xi'an", "number": "MU2288", "start": [0, 14, 15], "end": [0, 19, 15], "duration": [0, 5, 0], "price": 580, "type": "AC"}
+{"from": "Haerbin", "to": "Xi'an", "number": "MU2164", "start": [0, 20, 55], "end": [1, 0, 25], "duration": [0, 3, 30], "price": 520, "type": "AC"}
+{"from": "Haerbin", "to": "Wuhan", "number": "3U8725", "start": [0, 8, 15], "end": [0, 11, 30], "duration": [0, 3, 15], "price": 780, "type": "AC"}
+{"from": "Haerbin", "to": "Wuhan", "number": "CZ8368", "start": [0, 16, 35], "end": [0, 20, 0], "duration": [0, 3, 25], "price": 780, "type": "AC"}
+{"from": "Haerbin", "to": "Wuhan", "number": "MU4730", "start": [0, 18, 5], "end": [0, 22, 55], "duration": [0, 4, 50], "price": 886, "type": "AC"}
+{"from": "Haerbin", "to": "Shenzhen", "number": "MF1928", "start": [0, 8, 30], "end": [0, 13, 0], "duration": [0, 4, 30], "price": 1160, "type": "AC"}
+{"from": "Haerbin", "to": "Shenzhen", "number": "DZ6274", "start": [0, 14, 15], "end": [0, 20, 35], "duration": [0, 6, 20], "price": 700, "type": "AC"}
+{"from": "Haerbin", "to": "Shenzhen", "number": "DZ6254", "start": [0, 19, 45], "end": [1, 0, 20], "duration": [0, 4, 35], "price": 560, "type": "AC"}
+{"from": "Haerbin", "to": "Zhengzhou", "number": "ZH9435", "start": [0, 9, 30], "end": [0, 12, 30], "duration": [0, 3, 0], "price": 580, "type": "AC"}
+{"from": "Haerbin", "to": "Zhengzhou", "number": "MF1916", "start": [0, 12, 0], "end": [0, 15, 5], "duration": [0, 3, 5], "price": 785, "type": "AC"}
+{"from": "Haerbin", "to": "Zhengzhou", "number": "CZ5030", "start": [0, 18, 0], "end": [0, 20, 55], "duration": [0, 2, 55], "price": 830, "type": "AC"}
+{"from": "Haerbin", "to": "Haikou", "number": "ZH9433", "start": [0, 9, 15], "end": [0, 15, 40], "duration": [0, 6, 25], "price": 640, "type": "AC"}
+{"from": "Haerbin", "to": "Haikou", "number": "AQ1040", "start": [0, 13, 45], "end": [0, 20, 40], "duration": [0, 6, 55], "price": 839, "type": "AC"}
+{"from": "Moscow", "to": "Beijing", "number": "SU200-333", "start": [0, 12, 25], "end": [1, 1, 0], "duration": [0, 12, 35], "price": 2882, "type": "AC"}
+{"from": "Moscow", "to": "Beijing", "number": "CA910-772", "start": [0, 18, 45], "end": [1, 7, 15], "duration": [0, 12, 30], "price": 3580, "type": "AC"}
+{"from": "Moscow", "to": "Shanghai", "number": "SU206-333", "start": [0, 9, 20], "end": [0, 23, 15], "duration": [0, 13, 55], "price": 3082, "type": "AC"}
+{"from": "Moscow", "to": "Shanghai", "number": "SU3900-767", "start": [0, 19, 5], "end": [1, 9, 0], "duration": [0, 13, 55], "price": 3622, "type": "AC"}
+{"from": "Moscow", "to": "Tokyo", "number": "SU102-77W", "start": [0, 14, 25], "end": [0, 17, 20], "duration": [0, 2, 55], "price": 4617, "type": "AC"}
+{"from": "Moscow", "to": "Tokyo", "number": "SU100-77W", "start": [0, 9, 40], "end": [0, 12, 25], "duration": [0, 2, 45], "price": 4947, "type": "AC"}

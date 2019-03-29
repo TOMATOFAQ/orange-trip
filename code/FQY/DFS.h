@@ -3,44 +3,61 @@
 #include <nlohmann/json.hpp>
 #include <queue>
 #include <vector>
+#include "MyAlgorithmScaffold.h"
+#include "ReadData.h"
+
 using namespace std;
 using json = nlohmann::json;
 
-vector<json> D;
-void ReadDatabase() {
-    string line;
-    ifstream infile;
-    infile.open("database.txt");
-    while (getline(infile, line)) {
-        json j = json::parse(line);
-        D.push_back(j);
-    }
-}
-
-struct cmp_plan {  // 优先队列的比较函数，总价高的被pop 掉的优先级高
+struct cmp_plan_decrease {  // 优先队列的比较函数，总价小的被pop 掉的优先级高
     bool operator()(json a, json b) {
         return a["total_price"] < b["total_price"];  // 大的优先级高
     }
 };
 
-void dfs(priority_queue<json, vector<json>, cmp_plan> &ps, json &p,
+struct cmp_plan_increase {  // 优先队列的比较函数，总价大的被pop 掉的优先级高
+    bool operator()(json a, json b) {
+        return a["total_price"] > b["total_price"];  // 小的优先级高
+    }
+};
+
+struct cmp_schedule_increase {  // 优先队列的比较函数，总价小的被pop
+                                // 掉的优先级高
+    bool operator()(json a, json b) {
+        return a["price"] > b["price"];  // 小的优先级高
+    }
+};
+
+struct cmp_schedule_decrease {  // 优先队列的比较函数，总价大的被pop
+                                // 掉的优先级高
+    bool operator()(json a, json b) {
+        return a["price"] < b["price"];  // 大的优先级高
+    }
+};
+
+void dfs(priority_queue<json, vector<json>, cmp_plan_decrease> &ps, json &p,
          vector<string> &have_been_to, json schedule, string start,
          string end) {
     if (start == end) {
-        if (ps.size() < 5)
+        if (ps.size() < 3)
             ps.push(p);
         else {
             ps.pop();
             ps.push(p);
         }
     } else {
-        vector<json> temp;
-        for (json s : D) {
+        priority_queue<json, vector<json>, cmp_schedule_increase> temp;
+
+        for (json s : D) {  //  这里浪费太多时间了
             if (s["from"] == start) {
-                temp.push_back(s);
+                temp.push(s);
             }
         }
-        for (json s : temp) {
+
+        while (!temp.empty()) {
+            json s = temp.top();
+            temp.pop();
+
             if (!count(have_been_to.begin(), have_been_to.end(), s["to"])) {
                 have_been_to.push_back(s["to"]);
                 p["path"].push_back(s);
@@ -60,8 +77,9 @@ void dfs(priority_queue<json, vector<json>, cmp_plan> &ps, json &p,
     }
 }
 
-priority_queue<json, vector<json>, cmp_plan> DFS(string start, string end) {
-    priority_queue<json, vector<json>, cmp_plan> ps;
+priority_queue<json, vector<json>, cmp_plan_decrease> DFS(string start,
+                                                          string end) {
+    priority_queue<json, vector<json>, cmp_plan_decrease> ps;
     json p;
     p["path"] = {};
     p["total_price"] = 0;
@@ -72,12 +90,13 @@ priority_queue<json, vector<json>, cmp_plan> DFS(string start, string end) {
 
 // int main() {
 //     ReadDatabase();
-
-//     priority_queue<json, vector<json>, cmp_plan> ps =
+//     cout << "系统加载完成。" << endl;
+//     priority_queue<json, vector<json>, cmp_plan_decrease> ps =
 //         DFS("Beijing", "Shenzhen");
 //     while (!ps.empty()) {
 //         json p = ps.top();
 //         ps.pop();
+//         p["path"] = chronologize(p["path"]);
 //         cout << p["total_price"] << endl;
 //         for (json s : p["path"]) cout << s << endl;
 //         cout << endl;
