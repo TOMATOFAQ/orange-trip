@@ -136,27 +136,23 @@ json dijkstra(string from, string to, vector<int> t) {
     return status[to];
 }
 
-// int main() {
-//     ReadDatabase();
-//     CreateDGraph();
-//     cout << "加载完毕。" << endl;
+int main() {
+    ReadDatabase();
+    CreateDGraph();
+    cout << "加载完毕。" << endl;
 
-//     vector<int> t = {0, 15, 44};
-//     json to_status;
+    vector<int> t = {0, 15, 44};
+    json to_status;
 
-//     to_status =
-//         dijkstra<struct cmp_schedule_money_increase>("Beijing", "Shenzhen",
-//         t);
-//     for (json p : to_status) {
-//         cout << p << endl;
-//     }
+    to_status = dijkstra<struct cmp_schedule_money_increase>("VNP", "WCN", t);
+    for (json p : to_status) {
+        cout << p << endl;
+    }
 
-//     to_status =
-//         dijkstra<struct cmp_schedule_time_increase>("Beijing", "Shenzhen",
-//         t);
-//     for (json p : to_status) {
-//         cout << p << endl;
-//     }
+    to_status = dijkstra<struct cmp_schedule_time_increase>("VNP", "WCN", t);
+    for (json p : to_status) {
+        cout << p << endl;
+    }
 
-//     return 0;
-// }
+    return 0;
+}

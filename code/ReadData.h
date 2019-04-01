@@ -14,7 +14,7 @@ vector<json> D;
 void ReadDatabase() {
     string line;
     ifstream infile;
-    infile.open("database.txt");
+    infile.open("database_yhx.txt");
     while (getline(infile, line)) {
         json j = json::parse(line);
         D.push_back(j);

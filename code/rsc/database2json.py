@@ -47,11 +47,16 @@ def string2json(s):
         'type': l[6]
     }
     j = json.dumps(d)
+    j = json.loads(j)
     return j
 
 
-t = open("database.txt", 'a')
+jl = []
 with open("database_origin.txt") as f:
+    t = open("database.txt", 'w')
     for l in f:
         j = string2json(l)
+        jl.append(j)
         print(j, file=t)
+t = open("database_json.txt", 'w')
+print(jl, file=t)
