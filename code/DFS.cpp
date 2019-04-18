@@ -21,13 +21,6 @@ struct cmp_plan_increase {  // 优先队列的比较函数，总价大的被pop 
     }
 };
 
-struct cmp_schedule_increase {  // 优先队列的比较函数，总价小的被pop
-                                // 掉的优先级高
-    bool operator()(json a, json b) {
-        return a["price"] > b["price"];  // 小的优先级高
-    }
-};
-
 struct cmp_schedule_decrease {  // 优先队列的比较函数，总价大的被pop
                                 // 掉的优先级高
     bool operator()(json a, json b) {
@@ -35,12 +28,24 @@ struct cmp_schedule_decrease {  // 优先队列的比较函数，总价大的被
     }
 };
 
+struct cmp_schedule_increase {  // 优先队列的比较函数，总价小的被pop
+                                // 掉的优先级高
+    bool operator()(json a, json b) {
+        return a["price"] > b["price"];  // 小的优先级高
+    }
+};
+
+struct cmp_schedule_Astar_f_increase {
+    bool operator()(json a, json b) { return a["Astar_f"] > b["Astar_f"]; }
+};
+
 void dfs(priority_queue<json, vector<json>, cmp_plan_decrease> &ps, json &p,
          vector<string> &have_been_to, json schedule, string start,
          string end) {
     if (start == end) {
+        // 如果抵达了
         p["path"] = chronologize(p["path"]);
-        if (ps.size() < 3)
+        if (ps.size() < 1)
             ps.push(p);
         else {
             ps.pop();
@@ -78,34 +83,34 @@ void dfs(priority_queue<json, vector<json>, cmp_plan_decrease> &ps, json &p,
     }
 }
 
-priority_queue<json, vector<json>, cmp_plan_decrease> DFS(string start,
-                                                          string end) {
+priority_queue<json, vector<json>, cmp_plan_decrease> DFS(string from,
+                                                          string to) {
     priority_queue<json, vector<json>, cmp_plan_decrease> ps;
     json p;
     p["path"] = {};
     p["total_price"] = 0;
     vector<string> have_been_to{"Beijing"};
-    dfs(ps, p, have_been_to, NULL, start, end);
+    dfs(ps, p, have_been_to, NULL, from, to);
     return ps;
 }
 
-// // 使用说明
-// int main() {
-//     ReadDatabase();
-//     cout << "系统加载完成。" << endl;
-//     priority_queue<json, vector<json>, cmp_plan_decrease> ps =
-//         DFS("Beijing", "Shenzhen");
-//     while (!ps.empty()) {
-//         json p = ps.top();
-//         ps.pop();
-//         cout << p["total_price"] << endl;
-//         for (json s : p["path"]) cout << s << endl;
-//         cout << endl;
-//     }
+// 使用说明
+int main() {
+    ReadDatabase();
+    cout << "系统加载完成。" << endl;
+    priority_queue<json, vector<json>, cmp_plan_decrease> ps =
+        DFS("北京", "上海");
+    while (!ps.empty()) {
+        json p = ps.top();
+        ps.pop();
+        cout << p["total_price"] << endl;
+        for (json s : p["path"]) cout << s << endl;
+        cout << endl;
+    }
 
-//     // 剪枝后北京到深圳可以很容易求出来了，而北京到东京依然是组合爆炸。
-//     return 0;
-// }
+    // 剪枝后北京到深圳可以很容易求出来了，而北京到东京依然是组合爆炸。
+    return 0;
+}
 
 // // 413
 // //
